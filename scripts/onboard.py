@@ -2,6 +2,9 @@
 
 Interactive:      python scripts/onboard.py
 Non-interactive:  python scripts/onboard.py --answers answers.json   (e.g. driven by Manus)
+Agent helpers:    --answers answers.json --gaps      (JSON of missing fields)
+                  --answers answers.json --summary   (readable profile for confirmation)
+answers.json may carry "_sources": {dotted.key: "resume_swe.pdf"}; it is never written to profile.yml.
 
 Fields mirror Simplify's autofill profile. Passwords are NEVER collected or stored.
 profile.yml is gitignored; filters.json is the shared config the poller reads.
@@ -62,7 +65,20 @@ QUESTIONS = [
     ("application_defaults.how_did_you_hear", "'How did you hear about us?' answer", "Simplify"),
 ]
 
-NEW_YEAR_NOTE = "Terms are season+year, e.g. 'Summer 2027'."
+REQUIRED = {
+    "identity.first_name", "identity.last_name", "identity.email", "identity.phone",
+    "identity.city", "identity.state", "education.school", "education.degree",
+    "education.major", "education.graduation", "work_authorization.authorized_to_work_us",
+    "work_authorization.requires_sponsorship", "preferences.roles", "accounts.email_strategy",
+}
+BOOL_KEYS = {"work_authorization.authorized_to_work_us", "work_authorization.requires_sponsorship",
+             "work_authorization.willing_to_relocate", "preferences.us_only"}
+LIST_KEYS = {"preferences.roles", "preferences.seasons", "preferences.years", "preferences.exclude_companies"}
+SECTIONS = [("identity", "Identity"), ("links", "Links"), ("education", "Education"),
+            ("work_authorization", "Work authorization"), ("preferences", "Preferences"),
+            ("eeo", "EEO"), ("accounts", "Accounts"), ("application_defaults", "Application defaults")]
+
+NEW_YEAR_NOTE ="Terms are season+year, e.g. 'Summer 2027'."
 
 
 def to_bool(v):
@@ -122,6 +138,56 @@ def validate(a):
     return problems
 
 
+def _filled(v):
+    return v is not None and v != "" and v != []
+
+
+def gaps(a):
+    """Unanswered dotted keys. 'required' blocks saving; 'optional' includes defaults to confirm."""
+    out = {"required": [], "optional": []}
+    dedicated = get_path(a, "accounts.email_strategy", "plus_alias") == "dedicated"
+    for key, prompt, default in QUESTIONS:
+        if _filled(get_path(a, key)):
+            continue
+        if key == "accounts.dedicated_email" and not dedicated:
+            continue
+        blocking = (key in REQUIRED and not _filled(default)) or key == "accounts.dedicated_email"
+        out["required" if blocking else "optional"].append({"key": key, "prompt": prompt})
+    return out
+
+
+def summary(a):
+    """Plain-text profile by section, with sources/defaults noted and MISSING for empty required fields."""
+    src = a.get("_sources") or {}
+    lines = []
+    for sec, title in SECTIONS:
+        lines.append(f"{title}:")
+        for key, _, default in QUESTIONS:
+            if not key.startswith(sec + "."):
+                continue
+            label = key.split(".")[1].replace("_", " ").capitalize()
+            v, note = get_path(a, key), ""
+            if _filled(v):
+                if key in src:
+                    note = f"  (from: {src[key]})"
+            elif key == "accounts.dedicated_email" and get_path(a, "accounts.email_strategy") != "dedicated":
+                continue
+            elif _filled(default):
+                v, note = default, "  (default)"
+            elif key in REQUIRED or key == "accounts.dedicated_email":
+                lines.append(f"  {label}: MISSING")
+                continue
+            else:
+                v = DECLINE if sec == "eeo" else "-"
+            if key in BOOL_KEYS:
+                v = "Yes" if to_bool(v) else "No"
+            elif key in LIST_KEYS:
+                v = ", ".join(to_list(v)) or "-"
+            lines.append(f"  {label}: {v}{note}")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
 def build_profile(a):
     p = {}
     for key, _, default in QUESTIONS:
@@ -176,7 +242,11 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--answers", help="JSON file of answers (skips the interview)")
     ap.add_argument("--out-dir", default=ROOT)
+    ap.add_argument("--gaps", action="store_true", help="print missing fields as JSON and exit")
+    ap.add_argument("--summary", action="store_true", help="print readable profile and exit")
     args = ap.parse_args(argv)
+    if (args.gaps or args.summary) and not args.answers:
+        ap.error("--gaps/--summary require --answers")
 
     if args.answers:
         with open(args.answers, encoding="utf-8") as f:
@@ -184,6 +254,17 @@ def main(argv=None):
     else:
         answers = interview()
 
+    if args.gaps:
+        print(json.dumps(gaps(answers), indent=2))
+        return 0
+    if args.summary:
+        print(summary(answers))
+        return 0
+
+    missing = gaps(answers)["required"]
+    if missing:
+        print("Missing required fields:\n- " + "\n- ".join(f"{g['key']}: {g['prompt']}" for g in missing))
+        return 1
     problems = validate(answers)
     if problems:
         print("Fix these and rerun:\n- " + "\n- ".join(problems))

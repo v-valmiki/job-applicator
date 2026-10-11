@@ -1,35 +1,39 @@
-# Manus onboarding (run once)
+# Manus onboarding (run once, conversational)
 
 Open this repo's folder in Manus Studio and paste:
 
 ```
-Onboard me for this repo. Interview me conversationally, a few questions at a time,
-covering every field in the QUESTIONS list in scripts/onboard.py: contact info, links,
-education, work authorization, roles of interest, seasons/years, US-only, companies to
-skip, the optional EEO questions (I may decline any), and job-portal account handling.
+Onboard me for this repo as a friendly chat, not a form.
 
-Rules:
-- Never ask for or write down any password. Passwords are handled by my browser's
-  password manager (or you ask me each time).
-- Write my answers to answers.json in the nested shape onboard.py expects, then run
-  `python scripts/onboard.py --answers answers.json`. Read the validation errors
-  back to me and fix them with me if it fails.
-- Delete answers.json afterwards (it is gitignored, but it has my personal data).
-- Then read resumes/ (if any) and run docs/manus-setup-prompt.md to fill in the
-  `resumes:` section of profile.yml and write recommendations.md.
+1. READ FIRST. Read every file in resumes/. Draft answers.json in the nested shape
+   scripts/onboard.py expects (see its QUESTIONS list), filling only what the resumes
+   actually say. For each field you fill, add "_sources": {"<dotted.key>": "<file>"}.
+   Never guess facts that are not in the resumes.
+2. FIND GAPS. Run `python scripts/onboard.py --answers answers.json --gaps`.
+3. ASK ONLY WHAT'S MISSING. Ask me the required gaps conversationally, 2-3 at a time,
+   then briefly offer the optional ones (EEO questions: I may decline any; blank =
+   decline). Explain the job-portal account options (see below) and let me choose.
+4. CONFIRM. Run `--summary` and show me the full profile. Let me change anything in
+   plain language ("make my city Austin"), update answers.json, and show it again.
+   Repeat until I say it's correct.
+5. SAVE. Run `python scripts/onboard.py --answers answers.json`. If it reports problems,
+   fix them with me and rerun. Then delete answers.json (it holds personal data).
+6. Run docs/manus-setup-prompt.md to fill the `resumes:` section and write
+   recommendations.md.
+
+Never ask for, write down or store any password.
 ```
 
 ## Job-portal accounts
-Many companies force you to create an account on their portal (Workday, iCIMS, etc.).
+Many companies make you create an account on their portal (Workday, iCIMS, etc.).
 `accounts.email_strategy` controls which email Manus uses:
 
 | Strategy | What it does |
 |---|---|
 | `primary` | your application email everywhere |
-| `plus_alias` | `you+<company>@gmail.com` - same inbox, one address per company (works with Gmail and Outlook; makes it easy to see which company emailed you) |
+| `plus_alias` | `you+<company>@gmail.com`: same inbox, one address per company (works with Gmail and Outlook) |
 | `dedicated` | a separate job-hunt email (`accounts.dedicated_email`) |
 
-Passwords are never stored in this repo. `browser_password_manager` means Manus lets your
-browser save/generate them; `ask_each_time` means it stops and asks you.
-Creating a portal account is an action you should approve; the apply prompt stops and asks
-before creating one.
+Passwords are never stored in this repo. `browser_password_manager` means your browser
+saves/generates them; `ask_each_time` means Manus stops and asks you. Manus always asks
+before creating a portal account.
