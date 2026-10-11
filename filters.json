@@ -1,0 +1,10 @@
+{
+  "terms": ["Fall 2026", "Winter 2026", "Winter 2027", "Spring 2027", "Summer 2027", "Fall 2027"],
+  "na_term_title_keywords": ["early career", "explore", "ignite", "apprentice", "rotational", "co-op", "coop"],
+  "categories": ["Software", "Software Engineering", "AI/ML/Data", "Data Science, AI & Machine Learning"],
+  "title_keywords": [],
+  "title_exclude": ["phd", "ph.d", "mba", "master", "postdoc"],
+  "allowed_degrees": ["Bachelor's", "Associate's"],
+  "us_only": true,
+  "exclude_companies": []
+}
