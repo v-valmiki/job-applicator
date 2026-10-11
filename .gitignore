@@ -2,3 +2,6 @@ __pycache__/
 profile.yml
 recommendations.md
 answers.json
+
+.env
+local/
