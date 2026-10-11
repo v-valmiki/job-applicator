@@ -47,6 +47,7 @@ def main():
     else:
         print(f"{len(new)} new listings, 0 matches.")
 
+    os.makedirs(os.path.dirname(SEEN), exist_ok=True)
     with open(SEEN, "w", encoding="utf-8") as f:
         json.dump(sorted(all_ids), f)
 
