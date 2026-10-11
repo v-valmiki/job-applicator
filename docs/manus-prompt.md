@@ -14,7 +14,10 @@ For each one, in my own browser (Browser Operator):
 3. Fill the form using ONLY my profile.yml. For any question not covered by it
    (essays, salary, anything unusual), stop and ask me - do not invent an answer.
 4. Upload the resume.
-5. Do NOT click the final Submit. Leave the form filled and tell me which tab it is.
+5. If the site requires creating an account, tell me and wait for my OK, then use the
+   email per profile.yml `accounts` (never invent or store a password; follow
+   `password_handling`).
+6. Do NOT click the final Submit. Leave the form filled and tell me which tab it is.
 
 Process at most 5 jobs per run. List what you filled and anything you skipped and why.
 ```
