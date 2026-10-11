@@ -1,0 +1,27 @@
+# Copy to profile.yml and fill in. Your agent (Manus or other) uses these as the
+# fixed answers for application forms. Never let an agent invent answers to the
+# work-authorization / demographic questions - keep them here.
+name: Your Name
+email: you@example.com
+phone: "555-555-5555"
+links:
+  linkedin: https://linkedin.com/in/you
+  github: https://github.com/you
+  portfolio: ""
+education:
+  school: Your University
+  degree: B.S. Computer Science
+  graduation: "May 2028"
+  gpa: "3.8"
+work_authorization:
+  us_citizen: true
+  requires_sponsorship: false
+  willing_to_relocate: true
+demographics: decline   # decline | fill-from-file
+resumes:                # filenames in resumes/ and when to prefer each
+  - file: resumes/swe.pdf
+    use_for: [software, backend, fullstack]
+  - file: resumes/data-ml.pdf
+    use_for: [data, ml, ai]
+  - file: resumes/product.pdf
+    use_for: [product]
