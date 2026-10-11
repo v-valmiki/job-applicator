@@ -1,11 +1,12 @@
 # Manus prompt template
 
-Paste into a Manus task (with Browser Operator enabled), or save it as a scheduled task.
-Attach your `profile.yml` and resumes to the Manus project once.
+Run `manus-setup-prompt.md` first so `profile.yml` exists. Then paste this into a Manus task
+(Manus Studio with this repo's folder open, plus Browser Operator for the web forms), or save
+it as a scheduled task.
 
 ```
-Open https://github.com/<YOUR_USER>/<YOUR_REPO>/blob/main/queue.md and take the
-unchecked items ("- [ ]").
+Pull the latest changes in this repo folder, then open queue.md and take the
+unchecked items ("- [ ]"). When one is done, change it to "- [x]".
 
 For each one, in my own browser (Browser Operator):
 1. Open the application link.

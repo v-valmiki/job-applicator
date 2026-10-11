@@ -19,7 +19,10 @@ make it their own; nothing personal lives in the code.
 4. Edit `filters.json` (below).
 5. Run the workflow once manually (Actions -> poll-simplify -> Run workflow). The first run
    silently records existing listings; later runs only alert on new ones.
-6. Copy `profile.example.yml` to `profile.yml`, add resumes under `resumes/`.
+6. Put your resumes in `resumes/` (contents are gitignored). In Manus Studio, run
+   `docs/manus-setup-prompt.md` to generate `profile.yml` and `recommendations.md` from them.
+
+Discord only pings when there are *new matching* postings, not every 30 minutes.
 
 ## filters.json
 | Key | Meaning |
