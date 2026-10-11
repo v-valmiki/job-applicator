@@ -25,7 +25,7 @@ def main():
     filters = load(FILTERS, {})
     seen = set(load(SEEN, []))
     first_run = not seen
-    req = urllib.request.Request(URL, headers={"User-Agent": "job-applicator-bot"})
+    req = urllib.request.Request(filters.get("source_url") or URL, headers={"User-Agent": "job-applicator-bot"})
     with urllib.request.urlopen(req, timeout=60) as r:
         listings = json.load(r)
 
