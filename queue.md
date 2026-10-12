@@ -8,3 +8,11 @@
 - [ ] **CapTech Consulting** - Data Analysis/Data Engineering Intern | Richmond, VA | Summer 2027 | https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169
 - [ ] **CapTech Consulting** - Consulting Software Engineer Intern | Richmond, VA | Summer 2027 | https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115
 - [ ] **Parsons** - Engineering Internship/Co-op | Charlotte, NC, Centreville, VA | Summer 2027 | https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683
+- [ ] **Databricks** - Software Engineer Intern | SF, Bellevue, WA, Mountain View, CA, Vancouver, BC, Canada | Summer 2027 | https://boards.greenhouse.io/embed/job_app?token=6865687002
+- [ ] **General Dynamics Information Technology** - Software Development Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1
+- [ ] **General Dynamics Information Technology** - Software Development Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1
+- [ ] **General Dynamics Information Technology** - Software Development Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2
+- [ ] **Valmont** - Product Analyst Intern | Nebraska, Valley, NE | Fall 2026, Spring 2027 | https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081
+- [ ] **ADT** - Product Management & Product Operations Intern | Boca Raton, FL | Summer 2027 | https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393
+- [ ] **AtkinsRéalis** - Software Developer Intern | Denver, CO | Summer 2027 | https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1
+- [ ] **CHS** - Data Analyst Intern | Inver Grove Heights, MN | Summer 2027 | https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1439313500/?ats=successfactors
