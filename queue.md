@@ -55,3 +55,20 @@
 - [ ] **Vertiv** - Data Analytics Intern | Delaware, OH | Summer 2027 | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852
 - [ ] **Vestmark** - Software Engineer Co-op | Boston, MA | Spring 2027 | https://job-boards.greenhouse.io/vestmark/jobs/8204509
 - [ ] **The Toro Company** - IT Business Analyst Intern | Perry, OK | Summer 2027 | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608
+- [ ] **CoStar Group** - Product Intern | Richmond, VA | Summer 2027 | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900
+- [ ] **NJ Department of Environmental Protection** - Watershed & Land Management Intern | Trenton, NJ | Winter 2027 | https://njdepartmentofenvironmentalprotection.applytojob.com/apply/vPwbyhmsxt/Watershed-Land-Management-Intern-WLM20265i
+- [ ] **Carbon Robotics** - Engineering Intern - Hardware & Software | Seattle, WA | Summer 2027 | https://carbonrobotics.com/job-openings?gh_jid=4721558006
+- [ ] **General Dynamics Information Technology** - AI and Data Analytics Intern | Sterling, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269
+- [ ] **Netflix** - Software Engineer Intern | LA, Los Gatos, CA | Summer 2027 | https://explore.jobs.netflix.net/careers/job/790318904468
+- [ ] **7-Eleven** - AI Analyst / AI Automation Specialist Intern | Irving, TX | Summer 2027 | https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017
+- [ ] **Medpace** - Python Developer Intern | Cincinnati, OH | Summer 2027 | https://careers.medpace.com/jobs/13059?icims=1
+- [ ] **CAI** - Programmer Intern | Allentown, PA | Summer 2027 | https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523
+- [ ] **Motorola** - Software Engineering Co-op Intern | Chicago, IL, Schaumburg, IL, Illinois | N/A | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641
+- [ ] **Rhombus** - Software Engineer Intern | Sacramento, CA | Summer 2027 | https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply
+- [ ] **H&R Block** - Product Management Intern - S | Kansas City, MO | Summer 2027 | https://careers.hrblock.com/jobs/76986?icims=1
+- [ ] **H&R Block** - Software Engineer Intern | Kansas City, MO | Summer 2027 | https://careers.hrblock.com/jobs/76987?icims=1
+- [ ] **Bose** - Audio Machine Learning Co-op | Framingham, MA | Winter 2027 | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274
+- [ ] **ServiceNow** - AI Engineering Associate Software Engineer Intern | Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA | Summer 2027 | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+- [ ] **TRC Companies** - Safety Intern | Exton, PA | Summer 2027 | https://careers.trccompanies.com/jobs/27074?icims=1
+- [ ] **STV** - Data Engineer Intern | Chicago, IL | Spring 2027 | https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379
+- [ ] **Gallup** - Data Engineer Intern | SF | Summer 2027 | https://job-boards.greenhouse.io/gallup/jobs/4449991009
