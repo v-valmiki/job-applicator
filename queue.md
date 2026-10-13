@@ -50,3 +50,8 @@
 - [ ] **Expedia Group** - Mobile Engineer Intern | Seattle, WA, Austin, TX, San Jose, CA | Summer 2027 | https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1
 - [ ] **Expedia Group** - Software Development Engineer Intern | Seattle, WA, Austin, TX, San Jose, CA | Summer 2027 | https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1
 - [ ] **Realty Income** - Technology Intern | San Diego, CA | Summer 2026, Summer 2027 | https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339
+- [ ] **American Family Insurance Group** - Front End Developer Intern - Digital Sales | Madison, WI, Boston, MA | Summer 2027 | https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491
+- [ ] **RTX** - Software Engineer Intern | Annapolis Junction, MD | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1
+- [ ] **Vertiv** - Data Analytics Intern | Delaware, OH | Summer 2027 | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852
+- [ ] **Vestmark** - Software Engineer Co-op | Boston, MA | Spring 2027 | https://job-boards.greenhouse.io/vestmark/jobs/8204509
+- [ ] **The Toro Company** - IT Business Analyst Intern | Perry, OK | Summer 2027 | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608
