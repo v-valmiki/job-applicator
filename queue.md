@@ -72,3 +72,9 @@
 - [ ] **TRC Companies** - Safety Intern | Exton, PA | Summer 2027 | https://careers.trccompanies.com/jobs/27074?icims=1
 - [ ] **STV** - Data Engineer Intern | Chicago, IL | Spring 2027 | https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379
 - [ ] **Gallup** - Data Engineer Intern | SF | Summer 2027 | https://job-boards.greenhouse.io/gallup/jobs/4449991009
+- [ ] **DriveTime** - Data Analytics Intern | Dallas, TX, Tempe, AZ | Summer 2027 | https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502
+- [ ] **Metropolitan Transportation Authority** - Data Analyst Emerging Talent Intern - Supplier Relations | NYC | Spring 2027 | https://jobs.jobvite.com/metropolitantransportationauthority/job/oOvWAfwz?nl=1&nl=1&fr=false
+- [ ] **Avis Budget Group** - Product Innovation Intern | Parsippany-Troy Hills, NJ | Summer 2027 | https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Product-Innovation-Intern---Summer-2027_R0191163
+- [ ] **Armadin** - Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | Summer 2027 | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true
+- [ ] **Phillips 66** - University Intern - ERI Analytical Solutions | Bartlesville, OK | Summer 2027 | https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors
+- [ ] **Groma** - Finance Systems Co-op | Boston, MA | Spring 2027 | https://job-boards.greenhouse.io/groma/jobs/4743496005
