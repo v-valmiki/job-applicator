@@ -78,3 +78,7 @@
 - [ ] **Armadin** - Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | Summer 2027 | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true
 - [ ] **Phillips 66** - University Intern - ERI Analytical Solutions | Bartlesville, OK | Summer 2027 | https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors
 - [ ] **Groma** - Finance Systems Co-op | Boston, MA | Spring 2027 | https://job-boards.greenhouse.io/groma/jobs/4743496005
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694357619162532149
+- [ ] **Brain Co.** - Machine Learning Engineer – Applied AI Co-op Intern | SF | Winter 2027, Spring 2027 | https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true
+- [ ] **Brain Co.** - AI Product Engineer Co-op Intern | SF | Winter 2027 | https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true
+- [ ] **Assurant** - Data Support Analyst Intern | Chicago, IL | Summer 2027 | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717
