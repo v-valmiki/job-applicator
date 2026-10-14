@@ -82,3 +82,5 @@
 - [ ] **Brain Co.** - Machine Learning Engineer – Applied AI Co-op Intern | SF | Winter 2027, Spring 2027 | https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true
 - [ ] **Brain Co.** - AI Product Engineer Co-op Intern | SF | Winter 2027 | https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true
 - [ ] **Assurant** - Data Support Analyst Intern | Chicago, IL | Summer 2027 | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717
+- [ ] **Ascension** - Integrated Participant Solutions Analytics Intern | St. Louis, MO | Summer 2027 | https://jobs.ascension.org/us/en/job/2026-465198
+- [ ] **Electronic Arts** - Software Engineer Intern | Orlando, FL | Summer 2027 | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241
