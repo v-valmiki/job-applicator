@@ -130,3 +130,4 @@
 - [ ] **Atoms** - Software Engineer Intern | Seattle, WA | Winter 2027 | https://job-boards.greenhouse.io/cssmerge/jobs/8888411002
 - [ ] **National Life** - Data Science Intern | Montpelier, VT, Addison, TX | Summer 2027 | https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009
 - [ ] **Atoms** - Software Engineer Intern | Seattle, WA | Winter 2027 | https://job-boards.greenhouse.io/atoms/jobs/8356071002
+- [ ] **Tessera Labs** - Full Stack Software Engineer Intern - Full Stack | San Jose, CA, Remote in USA, NYC | Fall 2026, Spring 2027, Summer 2027 | https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true
