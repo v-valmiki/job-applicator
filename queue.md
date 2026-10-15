@@ -132,3 +132,6 @@
 - [ ] **Atoms** - Software Engineer Intern | Seattle, WA | Winter 2027 | https://job-boards.greenhouse.io/atoms/jobs/8356071002
 - [ ] **Tessera Labs** - Full Stack Software Engineer Intern - Full Stack | San Jose, CA, Remote in USA, NYC | Fall 2026, Spring 2027, Summer 2027 | https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true
 - [ ] **Brunswick** - G3 Software Engineer Intern | Oshkosh, WI | Summer 2027 | https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160
+- [ ] **Symbotic** - Robot Manipulation Co-op | Wilmington, MA | Spring 2027 | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Robot-Manipulation_R8257
+- [ ] **Deloitte** - Audit & Assurance Intern - AI and Data Science | LA | Winter 2027 | https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857
+- [ ] **Palantir** - Meritocracy Fellow | NYC | Fall 2027 | https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply
