@@ -94,3 +94,39 @@
 - [ ] **Equifax** - Technology Intern | Alpharetta, GA | Summer 2027 | https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00178955
 - [ ] **Point72** - Software Engineer Intern | NYC | Summer 2027 | https://boards.greenhouse.io/point72/jobs/8885733002
 - [ ] **J.M. Smucker** - Net Revenue Optimization Intern | Orrville, OH | Summer 2027 | https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006
+- [ ] **Philips** - Insights and Analytics Intern - Health Systems Marketing | Cambridge, MA | Summer 2027 | https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454
+- [ ] **AECOM** - Engineering/Data Analytics Intern | Atlanta, GA | Spring 2027, Summer 2027 | https://jobs.smartrecruiters.com/AECOM2/744000155565444
+- [ ] **onsemi** - Manufacturing AI Engineering Intern | Hopewell Junction, NY | Summer 2027 | https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642
+- [ ] **LSEG** - Software Engineer Intern | NYC | Summer 2027 | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1
+- [ ] **Anduril** - Research Engineer Co-op | Santa Ana, CA | Winter 2027 | https://boards.greenhouse.io/andurilindustries/jobs/5265127007
+- [ ] **Covestro** - Supply Chain Application Developer Co-op | Pittsburgh, PA | Spring 2027, Summer 2027 | https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1
+- [ ] **Humana** - Technology Intern - Society of Women Engineers Conference | Louisville, KY | Summer 2027 | https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228
+- [ ] **Nasdaq** - Intelligent Automation Intern | NYC | Summer 2027 | https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113
+- [ ] **Macy's** - Software Engineer Intern | Johns Creek, GA | Summer 2027 | https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780
+- [ ] **GlobalFoundries** - Human Resources Intern - HR Analytics | Malta, NY | Summer 2027 | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494
+- [ ] **Assurant** - Software Engineer Intern | Miami, FL, Chicago, IL, Atlanta, GA | Summer 2027 | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
+- [ ] **Skydio** - Software Engineer Intern | San Mateo, CA | Summer 2027 | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true
+- [ ] **Skydio** - Manufacturing Software Engineer Intern | San Mateo, CA | Winter 2027 | https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694360101507762485
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694362230074673461
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Recommendation Live | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694360097210861829
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7679220954338494773
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694362229701069109
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694365861943953717
+- [ ] **TikTok** - Machine Learning Engineer Intern - E-Commerce Governance | Seattle, WA | Summer 2027 | https://lifeattiktok.com/search/7694366551807265029
+- [ ] **Snap** - Generative Media Research Intern | LA | Summer 2027 | https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179
+- [ ] **Nissan Global** - Research Application Intern | Santa Clara, CA | Summer 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214272
+- [ ] **AGCO** - Agricultural Business Analytics Intern | Champaign, IL | Spring 2027 | https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors
+- [ ] **Jain Global** - Compliance Technology Intern | NYC | Summer 2027 | https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607
+- [ ] **Nissan Global** - Machine Learning Research Prediction and Planning Intern | Santa Clara, CA | Spring 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262
+- [ ] **Nissan Global** - Aftersales Business Planning Intern | Franklin, TN | Summer 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226
+- [ ] **AGCO** - AI & Data Science Intern | Champaign, IL | Spring 2027 | https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors
+- [ ] **Nissan Global** - Machine Learning Research Intern | Santa Clara, CA | Spring 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261
+- [ ] **Nissan Global** - Machine Learning Research Perception Intern | Santa Clara, CA | Spring 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260
+- [ ] **AGCO** - Business Intelligence Intern | United States | Spring 2027, Summer 2027 | https://careers.agcocorp.com/job/Business-Intelligence-Intern-Spring-2027/1440110900/?ats=successfactors
+- [ ] **ICF International** - Software Engineer Intern | Reston, VA | Summer 2027 | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522
+- [ ] **ICF International** - AI Engineer Intern | Reston, VA | Summer 2027 | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518
+- [ ] **ICF International** - AI Engineer Intern | Reston, VA | Summer 2027 | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521
+- [ ] **Atoms** - Software Engineer Intern | Seattle, WA | Winter 2027 | https://job-boards.greenhouse.io/cssmerge/jobs/8888411002
+- [ ] **National Life** - Data Science Intern | Montpelier, VT, Addison, TX | Summer 2027 | https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009
+- [ ] **Atoms** - Software Engineer Intern | Seattle, WA | Winter 2027 | https://job-boards.greenhouse.io/atoms/jobs/8356071002
