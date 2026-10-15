@@ -6,10 +6,14 @@ Agent helpers:    --answers answers.json --gaps      (JSON of missing fields)
                   --answers answers.json --summary   (readable profile for confirmation)
 answers.json may carry "_sources": {dotted.key: "resume_swe.pdf"}; it is never written to profile.yml.
 
+Redo:             --from-profile [profile.yml] [--out file]   prints current profile as answers JSON (pre-fills a redo)
+Rewrites snapshot the old profile.yml/filters.json into <local>/profile_history/ first (never deleted).
+
 Fields mirror Simplify's autofill profile. Passwords are NEVER collected or stored.
 profile.yml is gitignored; filters.json is the shared config the poller reads.
 """
-import argparse, json, os, sys
+import argparse, json, os, shutil, sys
+from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -23,7 +27,7 @@ ROLE_CATEGORIES = {
 SEASONS = ["Spring", "Summer", "Fall", "Winter"]
 DECLINE = "decline_to_answer"
 EMAIL_STRATEGIES = ["primary", "plus_alias", "dedicated"]
-PASSWORD_HANDLING = ["browser_password_manager", "ask_each_time"]
+PASSWORD_HANDLING = ["browser_password_manager", "ask_each_time", "env_default"]
 
 # (key, prompt, default). Dotted keys nest. Order = interview order.
 QUESTIONS = [
@@ -61,7 +65,8 @@ QUESTIONS = [
     ("eeo.lgbtq", "LGBTQ+ (optional, blank = decline)", ""),
     ("accounts.email_strategy", f"Email for creating job-portal accounts: {'/'.join(EMAIL_STRATEGIES)}", "plus_alias"),
     ("accounts.dedicated_email", "If 'dedicated': the separate email to use", ""),
-    ("accounts.password_handling", f"Passwords: {'/'.join(PASSWORD_HANDLING)} (never stored in this repo)", "browser_password_manager"),
+    ("accounts.password_handling", "Passwords: browser_password_manager (browser saves/fills them), ask_each_time (agent pings you), "
+      "or env_default (agent reads JOB_PORTAL_PASSWORD from the gitignored .env). Passwords are never stored in profile.yml", "browser_password_manager"),
     ("application_defaults.how_did_you_hear", "'How did you hear about us?' answer", "Simplify"),
 ]
 
@@ -115,8 +120,21 @@ def alias_email(email, company):
     return f"{local.split('+')[0]}+{tag}@{domain}" if tag and domain else email
 
 
+def _password_keys(d, path=""):
+    if isinstance(d, dict):
+        for k, v in d.items():
+            if k == "_sources":
+                continue
+            if "password" in str(k).lower() and k != "password_handling":
+                yield f"{path}{k}"
+            yield from _password_keys(v, f"{path}{k}.")
+    elif isinstance(d, list):
+        for i, v in enumerate(d):
+            yield from _password_keys(v, f"{path}{i}.")
+
+
 def validate(a):
-    problems = []
+    problems = [f"passwords must never be provided ({k})" for k in _password_keys(a)]
     for need in ("identity.first_name", "identity.last_name", "identity.email"):
         if not get_path(a, need):
             problems.append(f"missing {need}")
@@ -209,7 +227,7 @@ def build_profile(a):
         "plus_alias": alias_email(p["identity"]["email"], "x").replace("+x@", "+<company>@"),
         "dedicated": acc["dedicated_email"],
     }[acc["email_strategy"]]
-    p["resumes"] = []  # filled by the Manus setup prompt from resumes/
+    p["resumes"] = a["resumes"] if isinstance(a.get("resumes"), list) else []  # else filled by the Manus setup prompt
     return p
 
 
@@ -224,6 +242,40 @@ def build_filters(a, base):
     f["us_only"] = to_bool(get_path(a, "preferences.us_only", True))
     f["exclude_companies"] = to_list(get_path(a, "preferences.exclude_companies", []))
     return f
+
+
+def profile_to_answers(p):
+    """Inverse of build_profile: answers.json-shaped dict (derived keys dropped, EEO decline -> blank)."""
+    a = {}
+    for key, _, _ in QUESTIONS:
+        v = get_path(p, key)
+        if v is None:
+            continue
+        if key.startswith("eeo.") and v == DECLINE:
+            v = ""
+        set_path(a, key, v)
+    return a
+
+
+def _local_dir():
+    d = os.environ.get("JOB_APPLICATOR_LOCAL_DIR") or os.path.join(ROOT, "local")
+    os.makedirs(d, exist_ok=True)
+    return d
+
+
+def snapshot(path, prefix):
+    """Copy an existing file to <local>/profile_history/<prefix>-<UTC ts><ext>. History is never deleted."""
+    if not os.path.exists(path):
+        return None
+    hist = os.path.join(_local_dir(), "profile_history")
+    os.makedirs(hist, exist_ok=True)
+    ts, ext, n = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ"), os.path.splitext(path)[1], 0
+    while True:
+        dest = os.path.join(hist, f"{prefix}-{ts}{'-%d' % n if n else ''}{ext}")
+        if not os.path.exists(dest):
+            shutil.copy2(path, dest)
+            return dest
+        n += 1
 
 
 def interview():
@@ -242,11 +294,24 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--answers", help="JSON file of answers (skips the interview)")
     ap.add_argument("--out-dir", default=ROOT)
+    ap.add_argument("--from-profile", nargs="?", const="", metavar="PATH",
+                    help="print an existing profile.yml as answers JSON (default: <out-dir>/profile.yml) and exit")
+    ap.add_argument("--out", help="with --from-profile: write to this file instead of stdout")
     ap.add_argument("--gaps", action="store_true", help="print missing fields as JSON and exit")
     ap.add_argument("--summary", action="store_true", help="print readable profile and exit")
     args = ap.parse_args(argv)
     if (args.gaps or args.summary) and not args.answers:
         ap.error("--gaps/--summary require --answers")
+
+    if args.from_profile is not None:
+        with open(args.from_profile or os.path.join(args.out_dir, "profile.yml"), encoding="utf-8") as f:
+            text = json.dumps(profile_to_answers(json.load(f)), indent=2)
+        if args.out:
+            with open(args.out, "w", encoding="utf-8") as fh:
+                fh.write(text + "\n")
+        else:
+            print(text)
+        return 0
 
     if args.answers:
         with open(args.answers, encoding="utf-8") as f:
@@ -272,8 +337,19 @@ def main(argv=None):
 
     fpath = os.path.join(args.out_dir, "filters.json")
     base = json.load(open(fpath, encoding="utf-8")) if os.path.exists(fpath) else {}
+    ppath = os.path.join(args.out_dir, "profile.yml")
+    if "resumes" not in answers and os.path.exists(ppath):
+        try:
+            with open(ppath, encoding="utf-8") as f:
+                old = json.load(f).get("resumes")
+            if old:
+                answers = {**answers, "resumes": old}
+        except (OSError, ValueError, AttributeError):
+            pass  # not JSON-shaped; snapshot below still keeps it
+    snapshot(ppath, "profile")
+    snapshot(fpath, "filters")
     # profile.yml is written as JSON, which is valid YAML
-    with open(os.path.join(args.out_dir, "profile.yml"), "w", encoding="utf-8") as fh:
+    with open(ppath, "w", encoding="utf-8") as fh:
         json.dump(build_profile(answers), fh, indent=2)
         fh.write("\n")
     with open(fpath, "w", encoding="utf-8") as fh:
