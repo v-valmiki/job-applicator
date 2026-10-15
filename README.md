@@ -25,6 +25,8 @@ make it their own; nothing personal lives in the code.
 7. Put resumes in `resumes/` (contents gitignored); run `docs/manus-setup-prompt.md` to fill in the
    `resumes:` section and write `recommendations.md`.
 
+To update resumes or redo onboarding without losing history, see `docs/updating.md`.
+
 Discord only pings when there are *new matching* postings, not every 30 minutes.
 
 ## filters.json
