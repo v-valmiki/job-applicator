@@ -12,7 +12,7 @@ ENV_FILE = ROOT / ".env"
 API = "https://discord.com/api/v10"
 KEYS = ("DISCORD_WEBHOOK_URL", "DISCORD_USER_ID", "DISCORD_BOT_TOKEN", "DISCORD_CHANNEL_ID")
 LABELS = {"captcha": "CAPTCHA", "login": "Login needed", "account_creation": "Account creation",
-          "question": "Question", "error": "Error", "other": "Attention needed"}
+          "two_factor": "2FA code needed", "email_verification": "Email verification", "question": "Question", "error": "Error", "other": "Attention needed"}
 KINDS = tuple(LABELS)
 
 
@@ -77,6 +77,11 @@ def format_message(kind, company, title, detail, url=None, user_id=""):
         lines.append(url)
     if kind == "question":
         lines.append("Reply with your answer (start with `answer:` if replying in Discord).")
+    elif kind == "two_factor":
+        lines.append("Enter the code in the Chrome tab yourself, or reply with the code (`answer: 123456`) "
+                     "here or in the Manus app.")
+    elif kind == "email_verification":
+        lines.append("Click the verification link in your inbox, then reply `done`.")
     else:
         lines.append("Fix it in the Chrome tab (or answer here / in the Manus app), then reply `done`. "
                      "Reply `skip` to skip this job.")
@@ -155,6 +160,7 @@ def _log(entry):
 def ask(kind, company, title, detail, url=None, timeout=7200, interval=20, wait=True, cfg=None):
     """Ping and (if a bot is configured and wait=True) wait for the user's reply."""
     cfg = cfg or load_config()
+    secret = kind == "two_factor"  # one-time codes: never cached, never logged
     key = norm_question(detail) if kind == "question" else None
     answers = _load_answers() if key else {}
     if key in answers:
@@ -170,6 +176,7 @@ def ask(kind, company, title, detail, url=None, timeout=7200, interval=20, wait=
         if key and res["status"] == "answered" and res["text"]:
             answers[key] = res["text"]
             (local_dir() / "answers.json").write_text(json.dumps(answers, indent=2), encoding="utf-8")
+    logged = {**res, "text": "<redacted>" if res.get("text") else ""} if secret else res
     _log({"ts": datetime.now(timezone.utc).isoformat(timespec="seconds"), "kind": kind, "company": company,
-          "title": title, "detail": detail, "url": url, "result": res})
+          "title": title, "detail": detail, "url": url, "result": logged})
     return res

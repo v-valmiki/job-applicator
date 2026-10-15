@@ -124,16 +124,42 @@ class TestCache(Base):
         self.assertEqual(json.loads(log[1])["result"]["status"], "cached")
 
 
+class TestSecretKinds(Base):
+    def test_messages(self):
+        m = d.format_message("two_factor", "Acme", "SWE", "SMS code")
+        self.assertIn("Enter the code in the Chrome tab yourself, or reply with the code (`answer: 123456`) "
+                      "here or in the Manus app.", m)
+        m = d.format_message("email_verification", "Acme", "SWE", "Check inbox")
+        self.assertIn("Click the verification link in your inbox, then reply `done`.", m)
+
+    def test_two_factor_not_cached_and_redacted(self):
+        self.replies = [[msg("101", "answer: 654321")]]
+        r = self.run_ask(kind="two_factor", detail="SMS code")
+        self.assertEqual((r["status"], r["text"]), ("answered", "654321"))
+        self.assertFalse((Path(self.tmp.name) / "answers.json").exists())
+        raw = (Path(self.tmp.name) / "asks.jsonl").read_text()
+        self.assertNotIn("654321", raw)
+        self.assertEqual(json.loads(raw)["result"]["text"], "<redacted>")
+        n = len(self.calls)
+        self.run_ask(kind="two_factor", detail="SMS code")
+        self.assertGreater(len(self.calls), n)  # pinged again, no cache
+
+    def test_email_verification_done(self):
+        self.replies = [[msg("101", "done")]]
+        self.assertEqual(self.run_ask(kind="email_verification", detail="link sent")["status"], "done")
+
+
 class TestConfig(unittest.TestCase):
     def test_env_file_and_override(self):
         with tempfile.TemporaryDirectory() as t:
             f = Path(t) / ".env"
-            f.write_text('# c\nDISCORD_WEBHOOK_URL="https://a"\nDISCORD_USER_ID=1\n')
+            f.write_text('# c\nDISCORD_WEBHOOK_URL="https://a"\nDISCORD_USER_ID=1\nJOB_PORTAL_PASSWORD=s3cret\n')
             with mock.patch.object(d, "ENV_FILE", f), mock.patch.dict(os.environ, {"DISCORD_USER_ID": "2"}):
                 os.environ.pop("DISCORD_WEBHOOK_URL", None)
                 cfg = d.load_config()
         self.assertEqual((cfg["DISCORD_WEBHOOK_URL"], cfg["DISCORD_USER_ID"], cfg["DISCORD_BOT_TOKEN"]),
                          ("https://a", "2", ""))
+        self.assertNotIn("s3cret", json.dumps(cfg))
 
 
 if __name__ == "__main__":
