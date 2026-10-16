@@ -164,3 +164,7 @@
 - [ ] **T-Mobile** - Software Engineer Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
 - [ ] **TikTok** - Software Engineer Intern - Recommendation Performance Efficiency | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7673636206961641781
 - [ ] **Tesla** - Software Engineer Intern - SI Data Infrastructure | Palo Alto, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/282292
+- [ ] **J.M. Smucker** - Finance Technology Intern | Orrville, OH | Spring 2027 | https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016
+- [ ] **American Bankers Association** - Banking Policy and Economic Research Intern | Washington, DC | Summer 2027 | https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625
+- [ ] **Hilb Group** - Benefits Analytics Intern | Hunt Valley, Cockeysville, MD | Summer 2027 | https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866
+- [ ] **Nutanix** - Support Analytics & Operations Intern | Durham, NC | Summer 2027 | https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false
