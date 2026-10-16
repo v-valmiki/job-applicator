@@ -163,3 +163,4 @@
 - [ ] **Angel City** - Data Analytics Intern | Santa Monica, CA | Fall 2026 | https://job-boards.greenhouse.io/wfclainc/jobs/6226220004
 - [ ] **T-Mobile** - Software Engineer Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
 - [ ] **TikTok** - Software Engineer Intern - Recommendation Performance Efficiency | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7673636206961641781
+- [ ] **Tesla** - Software Engineer Intern - SI Data Infrastructure | Palo Alto, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/282292
