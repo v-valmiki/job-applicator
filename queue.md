@@ -156,3 +156,10 @@
 - [ ] **American Family Insurance Group** - Enterprise Data Intern - Enablement, Service & Support | Madison, WI | Summer 2027 | https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527
 - [ ] **J.M. Smucker** - Revenue Growth Management Intern | Orrville, OH | Summer 2027 | https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Revenue-Growth-Management-Intern--Summer-2027_116012
 - [ ] **Cigna Group** - Healthcare Analytics Intern | Morris Plains, NJ | Summer 2027 | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483
+- [ ] **Axiom Space** - Software Engineer Intern | Houston, TX | Summer 2027 | https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767
+- [ ] **Abridge** - Member of Technical Staff Intern | SF | Fall 2026, Spring 2027, Summer 2027 | https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true
+- [ ] **Healthpeak Properties** - Forward Deployed Software Engineer Intern | NYC | Summer 2027 | https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship
+- [ ] **Healthpeak Properties** - Forward Deployed Software Engineer Intern | Irvine, CA | Summer 2027 | https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship
+- [ ] **Angel City** - Data Analytics Intern | Santa Monica, CA | Fall 2026 | https://job-boards.greenhouse.io/wfclainc/jobs/6226220004
+- [ ] **T-Mobile** - Software Engineer Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
+- [ ] **TikTok** - Software Engineer Intern - Recommendation Performance Efficiency | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7673636206961641781
