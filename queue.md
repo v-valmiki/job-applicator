@@ -196,3 +196,4 @@
 - [ ] **Ryan** - Software Engineer Intern | Plano, TX | Summer 2027 | https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1
 - [ ] **Ryan** - Software Engineer Intern | Plano, TX | Summer 2027 | https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843
 - [ ] **Tesla** - Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Spring 2027, Summer 2027 | https://www.tesla.com/careers/search/job/286986
+- [ ] **HeyGen** - Software Engineer Intern | Toronto, ON, Canada, SF, LA, Singapore | Winter 2027 | https://job-boards.greenhouse.io/heygen/jobs/4540716007
