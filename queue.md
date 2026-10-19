@@ -198,3 +198,5 @@
 - [ ] **Tesla** - Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Spring 2027, Summer 2027 | https://www.tesla.com/careers/search/job/286986
 - [ ] **HeyGen** - Software Engineer Intern | Toronto, ON, Canada, SF, LA, Singapore | Winter 2027 | https://job-boards.greenhouse.io/heygen/jobs/4540716007
 - [ ] **Johnson & Johnson** - Quality Data Science Co-op | Cincinnati, OH | Summer 2027 | https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629
+- [ ] **GM financial** - Portfolio Analytics Intern | Fort Worth, TX | Summer 2027 | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773
+- [ ] **Excellus BCBS** - College Operations Analyst Intern | Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY | Summer 2027 | https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2
