@@ -235,3 +235,5 @@
 - [ ] **Associated Bank** - Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking | Minneapolis, MN | Summer 2027 | https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672
 - [ ] **Paccar** - Dealer Development Marketing Data Analytics Intern | Kirkland, WA | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors
 - [ ] **Boston Scientific** - R&D Software Engineer Intern | Arden Hills, MN | Summer 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813563514
+- [ ] **Salesforce** - Software Engineer Intern | SF, Bellevue, WA | Summer 2027 | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
+- [ ] **The New York Times** - AI Initiatives Fellow | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005
