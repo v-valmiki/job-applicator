@@ -232,3 +232,6 @@
 - [ ] **Scale AI** - Machine Learning Research Intern | SF, NYC | Summer 2027 | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
 - [ ] **Associated Bank** - Corporate Intern - Digital Delivery - Artificial Intelligence | Milwaukee, WI | Summer 2027 | https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639
 - [ ] **Sherwin-Williams** - R&D Innovation Color Science Co-op | Brecksville, OH | Winter 2027 | https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626810
+- [ ] **Associated Bank** - Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking | Minneapolis, MN | Summer 2027 | https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672
+- [ ] **Paccar** - Dealer Development Marketing Data Analytics Intern | Kirkland, WA | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors
+- [ ] **Boston Scientific** - R&D Software Engineer Intern | Arden Hills, MN | Summer 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813563514
