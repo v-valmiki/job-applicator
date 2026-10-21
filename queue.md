@@ -268,3 +268,5 @@
 - [ ] **RTX** - Software Engineer Intern | Annapolis, MD | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939
 - [ ] **Applied Materials** - Software Engineer Intern | Santa Clara, CA | Summer 2027 | https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672
 - [ ] **Shield AI** - Data Science Intern | San Diego, CA | Summer 2027 | https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply
+- [ ] **Robert Bosch Venture Capital** - Calibration Process Optimization Intern | Farmington Hills, MI | Summer 2027, Fall 2027 | https://jobs.smartrecruiters.com/BoschGroup/744000156585075
+- [ ] **TruStage** - Information Technology Development and Infrastructure Intern | Madison, WI | Summer 2027 | https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155
