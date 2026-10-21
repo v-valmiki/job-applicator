@@ -277,3 +277,21 @@
 - [ ] **Massachusetts School Building Authority** - Capital Planning Data Assistant Co-op | Boston, MA | N/A | https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply
 - [ ] **RTX** - Software Engineer Intern | Tewksbury, MA | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127
 - [ ] **University of Virginia** - Graduate Student Associate Intern | Charlottesville, VA | Spring 2027 | https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0088483
+- [ ] **Aon** - IT / AI Engineer Intern | Chicago, IL | Summer 2027 | https://jobs.aon.com/jobs/110099?icims=1
+- [ ] **Parsons** - Computer Vision/Robotics Intern | Westminster, CO | Summer 2027 | https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402
+- [ ] **American Family Insurance Group** - Data Engineer Intern | Madison, WI | Summer 2027 | https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675
+- [ ] **Zebra Technologies** - Business Analyst Intern | Lincolnshire, IL | Summer 2027 | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646
+- [ ] **Analytic Partners** - Data Science Co-op | Miami, FL | Winter 2027 | https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302/apply
+- [ ] **KeyBank** - Marketing Analytics Intern | Brooklyn, OH | Summer 2027 | https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822
+- [ ] **Hitachi** - Software Engineering Co-op | Greenville, SC | N/A | https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733
+- [ ] **Rochester Regional Health** - Data Engineer Co-op | Rochester, NY | Winter 2027 | https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data-Engineer_REQ_244425
+- [ ] **Anduril** - Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter 2027 | https://boards.greenhouse.io/andurilindustries/jobs/5271686007
+- [ ] **Anduril** - Business Operations Engineer Intern | Ashville, OH, Costa Mesa, CA | Summer 2027 | https://boards.greenhouse.io/andurilindustries/jobs/5271672007
+- [ ] **Anduril** - Robotics Engineer Co-op | Quincy, MA | Winter 2027 | https://boards.greenhouse.io/andurilindustries/jobs/5271842007
+- [ ] **ABB** - Power BI Intern | Cary, NC | Summer 2027 | https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437
+- [ ] **Newell Brands** - Sales AI & Analytics Developer Intern | Huntersville, NC | Summer 2027 | https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors
+- [ ] **General Dynamics Information Technology** - AI and Estimation Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646
+- [ ] **GlobalFoundries** - Systems/Process Engineering Intern - Tapeout Operations | Malta, NY | Summer 2027 | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924
+- [ ] **GlobalFoundries** - AI Software Intern | Santa Clara, CA, Richardson, TX | Summer 2027 | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029
+- [ ] **Zillow** - Software Development Engineer Intern | Seattle, WA, Remote in USA | Summer 2027 | https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630
+- [ ] **Athene** - Operations Reporting & Analytics Intern | West Des Moines, IA | Summer 2027 | https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268
