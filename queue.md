@@ -270,3 +270,10 @@
 - [ ] **Shield AI** - Data Science Intern | San Diego, CA | Summer 2027 | https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply
 - [ ] **Robert Bosch Venture Capital** - Calibration Process Optimization Intern | Farmington Hills, MI | Summer 2027, Fall 2027 | https://jobs.smartrecruiters.com/BoschGroup/744000156585075
 - [ ] **TruStage** - Information Technology Development and Infrastructure Intern | Madison, WI | Summer 2027 | https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155
+- [ ] **Uline** - Operations Analyst Intern | Pleasant Prairie, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435
+- [ ] **Uline** - Executive Operations Analyst Intern | Pleasant Prairie, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434
+- [ ] **DP World** - Application Analyst Intern | Itasca, IL | Summer 2027 | https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400
+- [ ] **Northrop Grumman** - Software Engineer Intern | Roy, UT | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
+- [ ] **Massachusetts School Building Authority** - Capital Planning Data Assistant Co-op | Boston, MA | N/A | https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply
+- [ ] **RTX** - Software Engineer Intern | Tewksbury, MA | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127
+- [ ] **University of Virginia** - Graduate Student Associate Intern | Charlottesville, VA | Spring 2027 | https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0088483
