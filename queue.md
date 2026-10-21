@@ -264,3 +264,7 @@
 - [ ] **Zebra Technologies** - Mechanical Engineer Intern | Holtsville, NY | Summer 2027 | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627
 - [ ] **Berkshire Hathaway Energy** - Software Engineer Intern | Des Moines, IA | Summer 2027 | https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930
 - [ ] **Keysight Technologies** - R&D Software Engineer Intern | Santa Rosa, CA | Winter 2027 | https://jobs.keysight.com/jobs/55110?icims=1
+- [ ] **LinkedIn** - Software Engineer Intern | Mountain View, CA | Summer 2027 | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
+- [ ] **RTX** - Software Engineer Intern | Annapolis, MD | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939
+- [ ] **Applied Materials** - Software Engineer Intern | Santa Clara, CA | Summer 2027 | https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672
+- [ ] **Shield AI** - Data Science Intern | San Diego, CA | Summer 2027 | https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply
