@@ -297,3 +297,7 @@
 - [ ] **Athene** - Operations Reporting & Analytics Intern | West Des Moines, IA | Summer 2027 | https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268
 - [ ] **Tesla** - Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/287443
 - [ ] **Crusoe** - Software Engineer Intern | SF | Summer 2027 | https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true
+- [ ] **Textron** - Autonomy Engineer Intern - Air Systems | Hunt Valley, Cockeysville, MD | Summer 2027 | https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925
+- [ ] **Uline** - Software Developer Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537
+- [ ] **International Rescue Committee** - Development Data and Research Intern | Silver Spring, MD | Spring 2027 | https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497
+- [ ] **EQT Corporation** - Midstream Services Intern | Canonsburg, PA | Summer 2027 | https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008
