@@ -302,3 +302,29 @@
 - [ ] **International Rescue Committee** - Development Data and Research Intern | Silver Spring, MD | Spring 2027 | https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497
 - [ ] **EQT Corporation** - Midstream Services Intern | Canonsburg, PA | Summer 2027 | https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008
 - [ ] **RTX** - Software Engineer Intern | Aurora, CO | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520
+- [ ] **Westinghouse Electric Company** - Software Engineering Intern | Warrendale, PA | Summer 2027 | https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors
+- [ ] **Pattern** - AI Automation Engineer Intern | Lehi, UT | Summer 2027 | https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply
+- [ ] **Pattern** - Data Science Intern | Lehi, UT | Summer 2027 | https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply
+- [ ] **Pattern** - AI Infrastructure Engineer Intern | Lehi, UT | Summer 2027 | https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply
+- [ ] **Northrop Grumman** - Systems Engineering Intern - AI Experience | Dulles, VA | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423
+- [ ] **Northrop Grumman** - Cyber Software Engineer Intern | San Antonio, TX | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311
+- [ ] **1Password** - Developer Intern - Vault Team | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true
+- [ ] **KION Group** - Software Analytics Co-op | Grand Rapids, MI | Summer 2027 | https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1
+- [ ] **1Password** - Developer Intern - Extension Excellence | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true
+- [ ] **1Password** - Developer Intern - Provisioning | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true
+- [ ] **1Password** - Developer Intern - Machine Identity | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true
+- [ ] **1Password** - Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true
+- [ ] **M&T Bank** - Technology Intern - Software Engineering - Enterprise API Services Development Team | Buffalo, NY | Spring 2027 | https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812
+- [ ] **Insperity** - Rotational Data Analytics Intern | Kingwood, Houston, TX | N/A | https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458
+- [ ] **General Dynamics Information Technology** - Financial Data Analyst Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761
+- [ ] **Skydio** - Frontend Software Engineer Intern | San Mateo, CA | Summer 2027 | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
+- [ ] **Insperity** - Rotational Technology Intern | Kingwood, Houston, TX | N/A | https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103457
+- [ ] **Formlabs** - Manufacturing Test Software Intern | Somerville, MA | Spring 2027, Winter 2026 | https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004
+- [ ] **ABB** - Sales Excellence Data Analytics Intern | Cary, NC | Summer 2027 | https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987
+- [ ] **Symbotic** - Machine Learning Ops Co-op | Wilmington, MA | Spring 2027 | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327
+- [ ] **Grassroots Analytics** - Campaigns Data Services Intern | Washington, DC | Winter 2027 | https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4723837006
+- [ ] **American Family Insurance Group** - Business Intelligence Enablement Intern | Madison, WI, Boston, MA | Summer 2027 | https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531
+- [ ] **Rokt** - Junior Software Engineer Resident | NYC | Winter 2027 | https://apply.workable.com/rokt/j/616F2D0286/apply
+- [ ] **Walmart** - Automation Product Manager Intern - Product Manager | Lancaster, TX | Summer 2027 | https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739
+- [ ] **Ursa Major** - Software Development Intern | Berthoud, CO | Summer 2027 | https://ursamajor.com/careers/?gh_jid=4746827005
+- [ ] **STR** - Data Analyst Intern | Arlington County, Arlington, VA, Woburn, MA | Summer 2027 | https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006
