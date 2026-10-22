@@ -301,3 +301,4 @@
 - [ ] **Uline** - Software Developer Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537
 - [ ] **International Rescue Committee** - Development Data and Research Intern | Silver Spring, MD | Spring 2027 | https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497
 - [ ] **EQT Corporation** - Midstream Services Intern | Canonsburg, PA | Summer 2027 | https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008
+- [ ] **RTX** - Software Engineer Intern | Aurora, CO | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520
