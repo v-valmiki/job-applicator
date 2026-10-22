@@ -295,3 +295,5 @@
 - [ ] **GlobalFoundries** - AI Software Intern | Santa Clara, CA, Richardson, TX | Summer 2027 | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029
 - [ ] **Zillow** - Software Development Engineer Intern | Seattle, WA, Remote in USA | Summer 2027 | https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630
 - [ ] **Athene** - Operations Reporting & Analytics Intern | West Des Moines, IA | Summer 2027 | https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268
+- [ ] **Tesla** - Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/287443
+- [ ] **Crusoe** - Software Engineer Intern | SF | Summer 2027 | https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true
