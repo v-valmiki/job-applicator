@@ -383,3 +383,10 @@
 - [ ] **Freestone Capital Management** - Technology & Operations Intern | Seattle, WA | Summer 2027 | https://job-boards.greenhouse.io/freestonecapitalmanagement/jobs/5430136008
 - [ ] **Vertex Pharmaceuticals** - Biologics MSAT Co-op | Boston, MA | Winter 2027 | https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Biologics-MSAT_REQ-30504-1
 - [ ] **Biogen** - Integrated Insights & Analytics Co-op - Nephrology | Cambridge, MA | Winter 2027, Spring 2027 | https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Integrated-Insights---Analytics--Nephrology_REQ24281
+- [ ] **Adobe** - AI & Architecture Intern | San Jose, CA | Summer 2027 | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
+- [ ] **1Password** - Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true
+- [ ] **1Password** - Product Management Intern - End User Experience | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true
+- [ ] **1Password** - Developer Intern - Credential Brokering | Remote in USA, Remote in Canada | Winter 2027 | https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true
+- [ ] **MongoDB** - Software Engineer Intern | Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC | Summer 2027 | https://www.mongodb.com/careers/job/?gh_jid=8209134
+- [ ] **Coretek Services** - AI & Data Automation Developer Co-op | Remote in USA | Spring 2027 | https://apply.workable.com/coretek-services/j/21D19CC253/apply
+- [ ] **RTX** - Mission Analyst Intern | McKinney, TX | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mission-Analyst-Intern---Summer-2027--Onsite-_01883059
