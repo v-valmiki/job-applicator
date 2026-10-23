@@ -348,3 +348,4 @@
 - [ ] **Amazon** - Software Engineer Intern - AWS Database | United States | Summer 2027, Winter 2027, Fall 2027 | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
 - [ ] **Amazon** - Junior Software Development Engineer Intern - Jr. Developer Program | Detroit, MI | Winter 2027 | https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program
 - [ ] **Amazon** - Product Manager Intern - ALA | Seattle, WA | Summer 2027 | https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship
+- [ ] **AMEND Consulting** - Quality Assurance Analyst Co-op Intern | Cincinnati, OH | N/A | https://job-boards.greenhouse.io/amendconsulting/jobs/4113831009
