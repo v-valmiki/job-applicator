@@ -341,3 +341,10 @@
 - [ ] **RTX** - Software Engineer Co-op | Remote in USA, Richardson, TX | N/A | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451
 - [ ] **JP Morgan Chase** - Asset Management Data Scientist – Summer Associate Intern | NYC | Summer 2027 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931
 - [ ] **Assurant** - Manufactured Housing Product Analysis Intern | Miami, FL | Summer 2027 | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Miami-FL/Summer-2027-Intern--Manufactured-Housing-Product-Analysis-Intern_R-115769
+- [ ] **Paccar** - Aftersales Data Analyst Intern | Kirkland, WA | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors
+- [ ] **Amazon** - Software Engineer Intern | Redmond, WA | Summer 2027, Fall 2027 | https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa
+- [ ] **Amazon** - Systems Development Engineer Intern | Bellevue, WA | Winter 2027, Summer 2027 | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
+- [ ] **Amazon** - Associate Delivery Consultant Intern - AWS Professional Services | Arlington County, Arlington, VA, NYC | Summer 2027 | https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services
+- [ ] **Amazon** - Software Engineer Intern - AWS Database | United States | Summer 2027, Winter 2027, Fall 2027 | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
+- [ ] **Amazon** - Junior Software Development Engineer Intern - Jr. Developer Program | Detroit, MI | Winter 2027 | https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program
+- [ ] **Amazon** - Product Manager Intern - ALA | Seattle, WA | Summer 2027 | https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship
