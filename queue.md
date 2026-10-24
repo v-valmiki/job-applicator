@@ -415,3 +415,4 @@
 - [ ] **Flagship Pioneering** - AI/ML Engineering Co-op - SAGE Platform | Watertown, MA | Winter 2027 | https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002
 - [ ] **Flagship Pioneering** - Bioinformatics Data Engineering Co-op | Watertown, MA | Winter 2027 | https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002
 - [ ] **Johnson & Johnson** - Laboratory Automation Systems Intern | Spring House, PA | Summer 2027 | https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027
+- [ ] **COUNTRY Financial** - Consumer Insights Intern | Bloomington, IL | Summer 2027 | https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030
