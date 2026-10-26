@@ -417,3 +417,4 @@
 - [ ] **Johnson & Johnson** - Laboratory Automation Systems Intern | Spring House, PA | Summer 2027 | https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027
 - [ ] **COUNTRY Financial** - Consumer Insights Intern | Bloomington, IL | Summer 2027 | https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030
 - [ ] **The Federal Reserve System** - Policy & Analysis Intern | Dallas, TX | Summer 2027 | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766
+- [ ] **Skydio** - Autonomy Engineer Intern - Deep Learning / Computer Vision | San Mateo, CA | Summer 2027 | https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true
