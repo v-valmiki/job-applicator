@@ -465,3 +465,8 @@
 - [ ] **Aurora Innovation** - Behavior and Planning Intern - ML Research | SF, Pittsburgh, PA, Mountain View, CA | Summer 2027 | https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true
 - [ ] **Aurora Innovation** - Simulation Engineering Intern | SF, Mountain View, CA | Summer 2027 | https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true
 - [ ] **Aurora Innovation** - Data & ML Platform Engineer Intern | SF, Pittsburgh, PA, Mountain View, CA | Summer 2027 | https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true
+- [ ] **Sherwin-Williams** - R&D Product Systems Intern | Cleveland, OH | Summer 2027 | https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417
+- [ ] **Visa** - Data Science Intern - Data and AI Team | Foster City, CA | Summer 2027 | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1
+- [ ] **Visa** - Product Management Intern - Data and AI Team | Foster City, CA | Summer 2027 | https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W
+- [ ] **Visa** - Data Science Intern - Data and AI Team | Foster City, CA | Summer 2027 | https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W
+- [ ] **Visa** - Product Management Intern - Data and AI Team | Foster City, CA | Summer 2027 | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1
