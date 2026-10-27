@@ -482,3 +482,19 @@
 - [ ] **The Federal Reserve System** - REIN Data Intern | Atlanta, GA | Summer 2027 | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089
 - [ ] **Lila Sciences** - Robot Perception & State Estimation Co-op | Cambridge, MA | Spring 2027 | https://job-boards.greenhouse.io/lilasciences/jobs/4467398009
 - [ ] **RTX** - Software Engineer Intern | Cedar Rapids, IA | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074
+- [ ] **Betterment** - Software Engineer Intern | NYC | Fall 2027, Spring 2028, Summer 2028 | https://job-boards.greenhouse.io/bettermentcampusrecruiting/jobs/8168098
+- [ ] **OneMain Financial** - Data Science Analyst Intern | Charlotte, NC, Wilmington, DE | Winter 2026, Spring 2027 | https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405
+- [ ] **Northrop Grumman** - Software Engineer Intern | Azusa, CA | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903
+- [ ] **Fidelity Investments** - Data Strategy Intern | Boston, MA | Summer 2027 | https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Strategy_2135102
+- [ ] **Northrop Grumman** - Software Engineer Intern | Boulder, CO | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798
+- [ ] **Northrop Grumman** - Software Engineer Intern | Colorado Springs, CO | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803
+- [ ] **United Parcel Service** - Human Resources Intern - Data Analytics - HR Systems | Atlanta, GA | Summer 2027 | https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546
+- [ ] **Hive Financial Systems** - Analytics Intern | Atlanta, GA | Summer 2027 | https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007
+- [ ] **CSAA Insurance Group** - Data Science Intern | Phoenix, AZ | Summer 2027 | https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002
+- [ ] **New Balance** - Kids Footwear Product Co-op | Boston, MA | N/A | https://newbalance.wd1.myworkdayjobs.com/careers/job/Boston-MA-Headquarters---NB/Kids-Footwear-Product-Coop_R41587
+- [ ] **The Walt Disney Company** - Content Research Insights & Analytics Intern | Burbank, CA | Winter 2027 | https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1
+- [ ] **Nissan Global** - Physical AI Manufacturing Intern | Smyrna, TN | Summer 2027 | https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526
+- [ ] **Commonwealth Fusion Systems** - Scientific Software Engineer Intern | Devens, MA | Summer 2027 | https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply
+- [ ] **Commonwealth Fusion Systems** - Plasma Physics Intern | Devens, MA | Summer 2027 | https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply
+- [ ] **David Yurman** - Strategic Analytics Intern | NYC | Summer 2027 | https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176
+- [ ] **Amazon** - Database Engineer Intern | Seattle, WA, East Palo Alto, CA | Summer 2027 | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
