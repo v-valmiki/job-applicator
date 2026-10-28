@@ -498,3 +498,29 @@
 - [ ] **Commonwealth Fusion Systems** - Plasma Physics Intern | Devens, MA | Summer 2027 | https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply
 - [ ] **David Yurman** - Strategic Analytics Intern | NYC | Summer 2027 | https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176
 - [ ] **Amazon** - Database Engineer Intern | Seattle, WA, East Palo Alto, CA | Summer 2027 | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
+- [ ] **JM Family** - Data Engineer Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120
+- [ ] **JM Family** - Business Insights Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Business-Insights-Intern_JR105146
+- [ ] **JM Family** - Sales Reporting & Analysis Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145
+- [ ] **JM Family** - Power Platform & Analytics Intern | Mobile, AL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133
+- [ ] **ACLU Kentucky** - Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod | NYC | Winter 2027 | https://job-boards.greenhouse.io/acluinternships/jobs/8919540002
+- [ ] **Great American Insurance Company** - Cloud Data Platform Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795
+- [ ] **Great American Insurance Company** - Data Engineer Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794
+- [ ] **Great American Insurance Company** - Emerging Technology Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801
+- [ ] **Great American Insurance Company** - Data Application Engineer Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796
+- [ ] **Great American Insurance Company** - Claims Lab Developer Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803
+- [ ] **Sonos** - Data Quality Intern | Boston, MA | Summer 2027 | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Data-Quality-Intern_R2876-1
+- [ ] **Paccar** - Data Engineer Intern | Chillicothe, OH | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors
+- [ ] **CACI** - Software Engineer Intern - Summer 2027 | Sarasota, FL | Summer 2027 | https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618
+- [ ] **onsemi** - Customer Operations Data Analyst Intern | Scottsdale, AZ | Summer 2027 | https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070
+- [ ] **The Walt Disney Company** - Content Research Insights & Analytics Intern | Burbank, CA | Winter 2027 | https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2
+- [ ] **Assurant** - AI and Data Science Intern | Atlanta, GA | Summer 2027 | https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105
+- [ ] **GrayMatter Robotics** - Robotics Engineering Intern: Systems & Applications | Carson, CA | Fall 2026 | https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true
+- [ ] **FUTO** - Software Engineer Intern | Austin, TX | Summer 2027 | https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply
+- [ ] **Old Mission** - Software Engineer Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true
+- [ ] **Integrate** - Software Engineer Intern | Seattle, WA | Summer 2027 | https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true
+- [ ] **Paccar** - Application Developer Intern | Chillicothe, OH | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors
+- [ ] **Zus Health** - Data Acquisition Software Engineer Co-op | Boston, MA | Winter 2027 | https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c/application?embed=true
+- [ ] **Zus Health** - Platform Software Engineering Co-op | Boston, MA | Winter 2027 | https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a/application?embed=true
+- [ ] **Scout AI** - AI Engineer Intern - Fury Team | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true
+- [ ] **DriveWealth** - AI Consulting Associate Program – AI Engineer Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true
+- [ ] **DriveWealth** - AI Consulting Associate Program Product Owner Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true
