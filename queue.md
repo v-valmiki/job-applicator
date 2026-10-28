@@ -529,3 +529,13 @@
 - [ ] **VSP Vision** - Software Engineer Intern | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068
 - [ ] **VSP Vision** - Software Engineer Intern - Technology Innovation | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020
 - [ ] **Wabtec** - Software Engineering Co-op | Schenectady, NY | Spring 2027 | https://jobs.smartrecruiters.com/Wabtec/3743990016452226
+- [ ] **Lowe's** - Store Operations Intern - Retail Facilities Support | Mooresville, NC | Summer 2027 | https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Real-Estate---Undergrad-Internship---Summer-2027_JR-02650537
+- [ ] **AngloGold Ashanti** - Tailings Intern | Greenwood Village, CO | Fall 2026 | https://careers.anglogoldashanti.com/job/Greenwood-Village-Tailings-Intern-CO-80111/1444876333/?ats=successfactors
+- [ ] **VSP Vision** - Software Engineer Intern | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071
+- [ ] **VSP Vision** - Software Engineer Intern | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046
+- [ ] **Uline** - International Operations Analyst Intern | Pleasant Prairie, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694
+- [ ] **Infleqtion** - Quantum Software Intern - Quantum Software | Chicago, IL | Summer 2027 | https://apply.workable.com/coldquanta/j/EB77DE8198/apply
+- [ ] **PrizePicks** - Business Intelligence Intern - Game Operations | Atlanta, GA | Summer 2027 | http://prizepicks.com/position?gh_jid=8047188003
+- [ ] **Ace Hardware** - IT Associate Software Engineer Intern | Oak Brook, IL | Summer 2027 | https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797
+- [ ] **RTX** - Software Engineer Co-op | Marlborough, MA, Tewksbury, MA | Winter 2027, Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371
+- [ ] **Sonos** - Software Product Management Intern | Seattle, WA | Summer 2027 | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1
