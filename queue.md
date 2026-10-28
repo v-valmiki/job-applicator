@@ -524,3 +524,8 @@
 - [ ] **Scout AI** - AI Engineer Intern - Fury Team | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true
 - [ ] **DriveWealth** - AI Consulting Associate Program – AI Engineer Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true
 - [ ] **DriveWealth** - AI Consulting Associate Program Product Owner Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true
+- [ ] **Shield AI** - Software Engineer Intern | San Diego, CA | Summer 2027 | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true
+- [ ] **Shield AI** - Software Engineer Intern | San Diego, CA | Summer 2027 | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true
+- [ ] **VSP Vision** - Software Engineer Intern | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068
+- [ ] **VSP Vision** - Software Engineer Intern - Technology Innovation | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020
+- [ ] **Wabtec** - Software Engineering Co-op | Schenectady, NY | Spring 2027 | https://jobs.smartrecruiters.com/Wabtec/3743990016452226
