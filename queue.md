@@ -570,3 +570,14 @@
 - [ ] **Sherwin-Williams** - R&D Data Science Co-op | Brecksville, OH | Summer 2027 | https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789
 - [ ] **Merck** - Future Talent Program Co-op - Global Supplier Management Group Business Ops | West Point, PA, Rahway, NJ | N/A | https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Business-Ops---Co-op_R415029
 - [ ] **ASML** - Data Engineer Co-op Intern | San Diego, CA | N/A | https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626
+- [ ] **New York ISO** - ICAP Market Operations Co-op | Rensselaer, NY | N/A | https://job-boards.greenhouse.io/nyisocoops/jobs/5236014007
+- [ ] **New York ISO** - Software Engineering Co-op - Software Engineering | Rensselaer, NY | N/A | https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007
+- [ ] **HP Inc.** - Software Systems Intern - IQ | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801
+- [ ] **HP Inc.** - Software Quality Assurance Intern | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802
+- [ ] **Altman Solon** - Data Analyst Intern | Boston, MA, NYC | Winter 2027, Summer 2027 | http://www.altmansolon.com/careers/student-opportunities?gh_jid=4977111101
+- [ ] **HP Inc.** - Software Engineer Intern | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1
+- [ ] **HP Inc.** - Software Systems Intern - IQ | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1
+- [ ] **HP Inc.** - Software Quality Assurance Intern | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1
+- [ ] **General Dynamics Information Technology** - AI/ML Software Development and Engineering Intern | Bossier City, LA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939
+- [ ] **Boston Scientific** - AI Solutions Engineering Intern | Arden Hills, MN | Summer 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813547675
+- [ ] **HP Inc.** - Software Engineer Intern | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806
