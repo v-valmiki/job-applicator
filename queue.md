@@ -586,3 +586,19 @@
 - [ ] **Uline** - Sales Analyst Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774
 - [ ] **Tesla** - Data Engineer Intern - Energy | Palo Alto, CA | Spring 2027, Summer 2027 | https://www.tesla.com/careers/search/job/287982
 - [ ] **Applied Materials** - Industrial Engineering Intern | Santa Clara, CA | Summer 2027 | https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710
+- [ ] **Sallie Mae** - Data Science and Engineering Intern | Newark, DE, Arlington County, Arlington, VA | Summer 2027 | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659
+- [ ] **Pennsylvania State University** - Electoral Reform Research Assistant Intern | University Park, State College, PA | Fall 2026, Spring 2027 | https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electoral-Reform-Research-Assistant-Part-Time_REQ_0000083798-1
+- [ ] **JM Family** - Customer Experience Data Analyst Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125
+- [ ] **JM Family** - Software Engineer Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158
+- [ ] **Quantiq** - Software Developer Intern | Austin, TX | Summer 2027 | https://job-boards.greenhouse.io/quantiq/jobs/4287936009
+- [ ] **Advanced Space** - Software Engineer Intern | Westminster, CO | Summer 2027 | https://job-boards.greenhouse.io/advancedspace/jobs/4324855009
+- [ ] **Advanced Space** - Machine Learning Intern | Westminster, CO | Summer 2027 | https://job-boards.greenhouse.io/advancedspace/jobs/4324875009
+- [ ] **Wave Life Sciences USA** - Microsoft Copilot AI Co-op | Lexington, MA | Spring 2027 | https://wavelifesciences.com/jobs?gh_jid=4409054009
+- [ ] **Wave Life Sciences USA** - Intellectual Property/Data Science Co-op | United States | Spring 2027 | https://wavelifesciences.com/jobs?gh_jid=4403998009
+- [ ] **Qube Research & Technologies** - Technology Intern | Chicago, IL, NYC | Summer 2027 | https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002
+- [ ] **OneEthos** - Research and Development Intern | Remote in USA | Fall 2026, Spring 2027, Summer 2027 | https://job-boards.greenhouse.io/oneethos/jobs/4459193009
+- [ ] **OneEthos** - Product Management Intern | Remote in USA | Fall 2026, Spring 2027, Summer 2027 | https://job-boards.greenhouse.io/oneethos/jobs/4459298009
+- [ ] **Crystal Dynamics** - Gameplay Engineer Intern | Remote in USA | Spring 2027 | https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005
+- [ ] **Crystal Dynamics** - Technical Artist Intern | Remote in USA | Spring 2027 | https://job-boards.greenhouse.io/crystaldynamics/jobs/4746826005
+- [ ] **Burns Engineering** - Software Engineer Intern | Pittsburgh, PA | Summer 2027 | https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009
+- [ ] **Sonos** - Software Product Manager Intern | Seattle, WA | Summer 2027 | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1
