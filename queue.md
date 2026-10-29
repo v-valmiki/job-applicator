@@ -581,3 +581,8 @@
 - [ ] **General Dynamics Information Technology** - AI/ML Software Development and Engineering Intern | Bossier City, LA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939
 - [ ] **Boston Scientific** - AI Solutions Engineering Intern | Arden Hills, MN | Summer 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813547675
 - [ ] **HP Inc.** - Software Engineer Intern | SF | Summer 2027 | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806
+- [ ] **Philips** - AI & Analytics Analyst Intern | Nashville, TN | Summer 2027 | https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012
+- [ ] **Tesla** - Software Engineer Intern - Software Engineer - Infotainment Platforms Validation | Palo Alto, CA | Spring 2027 | https://www.tesla.com/careers/search/job/286261
+- [ ] **Uline** - Sales Analyst Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774
+- [ ] **Tesla** - Data Engineer Intern - Energy | Palo Alto, CA | Spring 2027, Summer 2027 | https://www.tesla.com/careers/search/job/287982
+- [ ] **Applied Materials** - Industrial Engineering Intern | Santa Clara, CA | Summer 2027 | https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710
