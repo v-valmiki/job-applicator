@@ -644,3 +644,6 @@
 - [ ] **F&G** - Business Intelligence Intern | Des Moines, IA | Summer 2027 | https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003
 - [ ] **F&G** - IT Software Engineer Intern - Summer | Des Moines, IA | Summer 2027 | https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003
 - [ ] **Vestmark** - Software Engineer Co-op | Boston, MA | Spring 2027 | https://job-boards.greenhouse.io/internrecruiting/jobs/8204511
+- [ ] **Voyager Technologies** - Software Engineer Intern | Long Beach, CA | Summer 2027 | https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009
+- [ ] **Nissan** - Purchasing Transformation Intern | Franklin, TN | Summer 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282
+- [ ] **AtriCure** - IT ERP Data Migration Co-op | Mason, OH | N/A | https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009
