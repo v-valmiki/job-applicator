@@ -637,3 +637,10 @@
 - [ ] **Genius AI** - Software Engineer Intern | NYC | Winter 2027 | https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27/application?embed=true
 - [ ] **Dee Zee** - Software Development Intern | Des Moines, IA | Summer 2027 | https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471
 - [ ] **Axon** - Software Engineer Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003
+- [ ] **Ncino** - Software Engineer Intern | Lehi, UT | Summer 2027 | https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009
+- [ ] **C3.ai** - AI Product Manager Intern | Redwood City, CA | Summer 2027 | https://job-boards.greenhouse.io/c3ascend/jobs/8860562002
+- [ ] **Stratolaunch** - Manufacturing Systems & Data Intern - Systems | Mojave, CA | Summer 2027 | https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008
+- [ ] **C3.ai** - Software Engineer Intern | Redwood City, CA | Summer 2027 | https://job-boards.greenhouse.io/c3ascend/jobs/8739036002
+- [ ] **F&G** - Business Intelligence Intern | Des Moines, IA | Summer 2027 | https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003
+- [ ] **F&G** - IT Software Engineer Intern - Summer | Des Moines, IA | Summer 2027 | https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003
+- [ ] **Vestmark** - Software Engineer Co-op | Boston, MA | Spring 2027 | https://job-boards.greenhouse.io/internrecruiting/jobs/8204511
