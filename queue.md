@@ -635,3 +635,5 @@
 - [ ] **Cloudflare** - Product Manager Intern | Austin, TX | Summer 2027 | https://boards.greenhouse.io/cloudflare/jobs/8274790
 - [ ] **Genius AI** - Engineering Intern | NYC | Summer 2027 | https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application?embed=true
 - [ ] **Genius AI** - Software Engineer Intern | NYC | Winter 2027 | https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27/application?embed=true
+- [ ] **Dee Zee** - Software Development Intern | Des Moines, IA | Summer 2027 | https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471
+- [ ] **Axon** - Software Engineer Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003
