@@ -697,3 +697,29 @@
 - [ ] **Publicis Groupe** - Software Engineer Intern | Boston, MA | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/172577?icims=1
 - [ ] **Publicis Groupe** - Product Manager Intern | Boston, MA | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/172574?icims=1
 - [ ] **Publicis Groupe** - Software Engineer Intern | Irving, TX | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/173034?icims=1
+- [ ] **First Citizens BancShares** - Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | Summer 2027 | https://firstcitizens.jibeapply.com/jobs/36230?icims=1
+- [ ] **First Citizens BancShares** - Summer Intern - AI Innovation | Raleigh, NC | Summer 2027 | https://firstcitizens.jibeapply.com/jobs/36311?icims=1
+- [ ] **Intercontinental Exchange** - Data Science Intern | NYC | Summer 2027 | https://ice.jibeapply.com/jobs/14113?icims=1
+- [ ] **Intercontinental Exchange** - Software Engineering Intern | Jacksonville, FL | Summer 2027 | https://ice.jibeapply.com/jobs/14075?icims=1
+- [ ] **Intercontinental Exchange** - Integration Intern | Jacksonville, FL | Summer 2027 | https://ice.jibeapply.com/jobs/14071?icims=1
+- [ ] **Intercontinental Exchange** - Index Analyst Intern | NYC | Summer 2027 | https://ice.jibeapply.com/jobs/14100?icims=1
+- [ ] **Intercontinental Exchange** - Audit Analytics Intern | Atlanta, GA | Summer 2027 | https://ice.jibeapply.com/jobs/14069?icims=1
+- [ ] **Intercontinental Exchange** - Software Engineer Intern | NYC | Summer 2027 | https://ice.jibeapply.com/jobs/14105?icims=1
+- [ ] **Intercontinental Exchange** - Agentic AI Data Science Intern | Jacksonville, FL | Summer 2027 | https://ice.jibeapply.com/jobs/14070?icims=1
+- [ ] **Intercontinental Exchange** - Trading System Development Intern | NYC | Summer 2027 | https://ice.jibeapply.com/jobs/14102?icims=1
+- [ ] **Intercontinental Exchange** - Product Management Intern | Atlanta, GA | Summer 2027 | https://ice.jibeapply.com/jobs/14065?icims=1
+- [ ] **Intercontinental Exchange** - Data Analyst Intern | Jacksonville, FL | Summer 2027 | https://ice.jibeapply.com/jobs/14089?icims=1
+- [ ] **Intercontinental Exchange** - Regulatory Products Intern | NYC | Summer 2027 | https://ice.jibeapply.com/jobs/14101?icims=1
+- [ ] **Intercontinental Exchange** - Software Engineer Intern - Java | Jacksonville, FL | Summer 2027 | https://ice.jibeapply.com/jobs/14078?icims=1
+- [ ] **Intercontinental Exchange** - Software Engineer Intern | Jacksonville, FL | Summer 2027 | https://ice.jibeapply.com/jobs/14077?icims=1
+- [ ] **Systems Planning and Analysis** - Data Engineer Intern | Alexandria, VA | Summer 2027 | https://spa.jibeapply.com/jobs/23698?icims=1
+- [ ] **Systems Planning and Analysis** - Data Engineering & Analytics Tools Intern | Washington, DC | Summer 2027 | https://spa.jibeapply.com/jobs/23634?icims=1
+- [ ] **Peraton** - Software Engineering Co-op | San Diego, CA | Spring 2027, Summer 2027 | https://peraton.jibeapply.com/jobs/171547?icims=1
+- [ ] **Peraton** - Data Science Intern | Blacksburg, VA, Herndon, VA | Summer 2027 | https://peraton.jibeapply.com/jobs/170320?icims=1
+- [ ] **Peraton** - Software Engineer Intern | Blacksburg, VA, Herndon, VA | Summer 2027 | https://peraton.jibeapply.com/jobs/169665?icims=1
+- [ ] **Peraton** - Engineer Co-op | Blacksburg, VA, Herndon, VA | Spring 2027 | https://peraton.jibeapply.com/jobs/170319?icims=1
+- [ ] **Peraton** - Sustainability Engineer Co-op | San Diego, CA | Spring 2027, Summer 2027 | https://peraton.jibeapply.com/jobs/171537?icims=1
+- [ ] **Peraton** - Software Developer Intern | Topeka, KS | Summer 2027 | https://peraton.jibeapply.com/jobs/172061?icims=1
+- [ ] **AXA** - Underwriting Data & Analytics Intern | NYC | Summer 2027 | https://careers.axa.com/jobs/25498?icims=1
+- [ ] **Netsmart** - Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS | Summer 2027 | https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757
+- [ ] **Dow Jones** - Subscription Experimentation Intern | NYC | Summer 2027 | https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Subscription-Experimentation-Intern_Job_Req_55879
