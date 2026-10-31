@@ -647,3 +647,37 @@
 - [ ] **Voyager Technologies** - Software Engineer Intern | Long Beach, CA | Summer 2027 | https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009
 - [ ] **Nissan** - Purchasing Transformation Intern | Franklin, TN | Summer 2027 | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282
 - [ ] **AtriCure** - IT ERP Data Migration Co-op | Mason, OH | N/A | https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009
+- [ ] **Amazon** - Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle, WA, Austin, TX, Irvine, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, Sunnyvale, CA, San Diego, CA | Summer 2027, Fall 2027 | https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027
+- [ ] **The New York Times** - Product Manager Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005
+- [ ] **Nokia** - Software Engineer Co-op | United States | N/A | https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339
+- [ ] **Symbotic** - Customer Success Intern | Wilmington, MA | Summer 2027 | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234
+- [ ] **Itron** - Systems Engineer Intern | West Union, SC | Spring 2027 | https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1
+- [ ] **Brain Co.** - Machine Learning Engineer – Applied AI Intern | SF | Summer 2027 | https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true
+- [ ] **Brain Co.** - AI Product Intern | SF | Summer 2027 | https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true
+- [ ] **Dow Jones** - Research Analyst Intern | Houston, TX | Summer 2027 | https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874
+- [ ] **Dow Jones** - Data Analyst Intern | NYC | Summer 2027 | https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894
+- [ ] **Brain Co.** - AI Platform Engineer Intern | SF | Summer 2027, Fall 2027 | https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true
+- [ ] **Dow Jones** - Research Analyst Intern | Houston, TX | Summer 2027 | https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55875
+- [ ] **Dow Jones** - Software Engineer Intern | NYC | Summer 2027 | https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892
+- [ ] **Fussball Club Cincinnati LLC (“FC Cincinnati”)** - First Team Sports Science Intern | Milford, OH | Winter 2027, Spring 2027 | https://job-boards.greenhouse.io/fccincinnati/jobs/8107647003
+- [ ] **Cartesian Systems** - Research Assistant Micro-Intern - IAP - Alumni Host | Cambridge, MA | Winter 2027 | https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009
+- [ ] **Cartesian Systems** - Software Engineer Intern | Cambridge, MA | Spring 2027 | https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009
+- [ ] **Obsidian Entertainment** - Gameplay Engineer Intern | Irvine, CA | Summer 2027 | https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship
+- [ ] **Life Fitness** - IT Intern | Rosemont, IL | Summer 2027 | https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323
+- [ ] **Molina Healthcare** - Customer Experience & Analytics Intern - Undergraduate | Remote in USA | Summer 2027 | https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169
+- [ ] **Barclays** - Client Data & Engineering Group Summer Intern - Chief Client Office | NYC | Summer 2027 | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731
+- [ ] **Hyster-Yale Materials Handling** - Business Analytics Intern | Greenville, NC | Summer 2027 | https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539
+- [ ] **Pyrotek** - Product Management Intern | Spokane, WA | Summer 2027 | https://jobs.smartrecruiters.com/Pyrotek3/744000158830479
+- [ ] **MANN+HUMMEL** - Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 | https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors
+- [ ] **TikTok** - Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 | https://lifeattiktok.com/search/7701486873210390837
+- [ ] **Elucid** - Software Engineer Intern | Boston, MA | Spring 2027 | https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027
+- [ ] **TikTok** - Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Winter 2027 | https://lifeattiktok.com/search/7701480558070597893
+- [ ] **Farmers Mutual Hail** - Data Architect Intern | West Des Moines, IA | Summer 2027 | https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009
+- [ ] **Farmers Mutual Hail** - Software Developer Intern | West Des Moines, IA | Summer 2027 | https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009
+- [ ] **Farmers Mutual Hail** - Product Owner Intern | West Des Moines, IA | Summer 2027 | https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404335009
+- [ ] **Itron** - Systems Engineer Intern | West Union, SC | Spring 2027 | https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2
+- [ ] **Strada Education Foundation** - Clear Outcomes and Data Science Intern | Washington, DC | Summer 2027 | https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply
+- [ ] **Signify** - Product Manager Intern | Aurora, CO | Spring 2027 | https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897
+- [ ] **John D. and Catherine T. MacArthur Foundation** - Evaluation & Learning Intern | Chicago, IL | Summer 2027 | https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362
+- [ ] **VSP Vision** - AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072
+- [ ] **Bristol Myers Squibb** - Quality Control Strategy and Science Co-op | New Brunswick, NJ | Spring 2027 | https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/Quality-Control-Strategy-and-Science-Spring-Co-op_R1608003
