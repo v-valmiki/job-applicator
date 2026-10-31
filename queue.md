@@ -681,3 +681,19 @@
 - [ ] **John D. and Catherine T. MacArthur Foundation** - Evaluation & Learning Intern | Chicago, IL | Summer 2027 | https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362
 - [ ] **VSP Vision** - AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development | Remote in USA | Summer 2027 | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072
 - [ ] **Bristol Myers Squibb** - Quality Control Strategy and Science Co-op | New Brunswick, NJ | Spring 2027 | https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/Quality-Control-Strategy-and-Science-Spring-Co-op_R1608003
+- [ ] **Divergent Technologies** - Business Intelligence Intern | Torrance, CA | Summer 2027 | https://job-boards.greenhouse.io/divergent/jobs/5393519008
+- [ ] **Andreessen Horowitz** - Research Intern - Frontier | NYC | Summer 2027 | https://a16z.com/about/jobs/?gh_jid=8046730003
+- [ ] **Morph Labs** - Research Intern | NYC | Winter 2026, Winter 2027 | https://job-boards.greenhouse.io/morph/jobs/4463089009
+- [ ] **Pretium** - AI, Data & Innovation Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002
+- [ ] **TPG** - Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant | Remote in USA | Winter 2027 | https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003
+- [ ] **Blackhawk Network Holdings** - Product Management Intern | Pleasanton, CA | Summer 2027 | https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1
+- [ ] **Blackhawk Network Holdings** - Product Management Intern | Coppell, TX | Summer 2027 | https://blackhawknetwork.jibeapply.com/jobs/26868?icims=1
+- [ ] **Blackhawk Network Holdings** - Technology Intern | Coppell, TX | Summer 2027 | https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1
+- [ ] **Blackhawk Network Holdings** - Technology Intern | Pleasanton, CA | Summer 2027 | https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1
+- [ ] **Schneider Electric** - AI Quality & Continuous Improvement Intern | Foxborough, MA | Spring 2027 | https://se.jibeapply.com/jobs/136783?icims=1
+- [ ] **Schneider Electric** - Continuous Improvement Intern | Franklin, TN | Spring 2027 | https://se.jibeapply.com/jobs/135532?icims=1
+- [ ] **Publicis Groupe** - Software Engineer Intern | Chicago, IL | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/173032?icims=1
+- [ ] **Schneider Electric** - Graduate Product Management Intern | Nashville, TN | Summer 2027 | https://se.jibeapply.com/jobs/135310?icims=1
+- [ ] **Publicis Groupe** - Software Engineer Intern | Boston, MA | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/172577?icims=1
+- [ ] **Publicis Groupe** - Product Manager Intern | Boston, MA | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/172574?icims=1
+- [ ] **Publicis Groupe** - Software Engineer Intern | Irving, TX | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/173034?icims=1
