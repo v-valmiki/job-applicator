@@ -726,3 +726,5 @@
 - [ ] **Northrop Grumman** - Data Scientist Intern - Product Support | San Diego, CA | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679
 - [ ] **KnowBe4** - Software Engineer Intern | Clearwater, FL | Summer 2027 | https://job-boards.greenhouse.io/knowbe4/jobs/8919280002
 - [ ] **KnowBe4** - Associate Product Manager Intern | Clearwater, FL | Summer 2027 | https://job-boards.greenhouse.io/knowbe4/jobs/8919274002
+- [ ] **Roku** - Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | https://www.weareroku.com/jobs/8258241?gh_jid=8258241
+- [ ] **Microsoft** - Explore Program Engineering Intern | Redmond, WA | N/A | https://apply.careers.microsoft.com/careers/job/1970393556925823
