@@ -728,3 +728,12 @@
 - [ ] **KnowBe4** - Associate Product Manager Intern | Clearwater, FL | Summer 2027 | https://job-boards.greenhouse.io/knowbe4/jobs/8919274002
 - [ ] **Roku** - Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | https://www.weareroku.com/jobs/8258241?gh_jid=8258241
 - [ ] **Microsoft** - Explore Program Engineering Intern | Redmond, WA | N/A | https://apply.careers.microsoft.com/careers/job/1970393556925823
+- [ ] **JM Family** - AI Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180
+- [ ] **ParetoHealth** - Software Engineer Intern | Philadelphia, PA | Summer 2027 | https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006
+- [ ] **ParetoHealth** - Analytics Intern | Philadelphia, PA | Summer 2027 | https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006
+- [ ] **ParetoHealth** - Product Manager Intern | Philadelphia, PA | Summer 2027 | https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006
+- [ ] **AXA** - Operations Metrics and Reporting Intern | Scottsdale, AZ | Summer 2027 | https://careers.axa.com/jobs/25497?icims=1
+- [ ] **CoStar Group** - Data Science Intern | Richmond, VA | Summer 2027 | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140
+- [ ] **Sierra Nevada Corporation** - Data Science Intern - Summer 2027 | Sparks, NV | Summer 2027 | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257
+- [ ] **The Federal Reserve System** - Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Summer 2027 | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860
+- [ ] **First Citizens BancShares** - Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | Summer 2027 | https://firstcitizens.jibeapply.com/jobs/36234?icims=1
