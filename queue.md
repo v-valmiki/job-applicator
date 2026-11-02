@@ -724,3 +724,5 @@
 - [ ] **Netsmart** - Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS | Summer 2027 | https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757
 - [ ] **Dow Jones** - Subscription Experimentation Intern | NYC | Summer 2027 | https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Subscription-Experimentation-Intern_Job_Req_55879
 - [ ] **Northrop Grumman** - Data Scientist Intern - Product Support | San Diego, CA | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679
+- [ ] **KnowBe4** - Software Engineer Intern | Clearwater, FL | Summer 2027 | https://job-boards.greenhouse.io/knowbe4/jobs/8919280002
+- [ ] **KnowBe4** - Associate Product Manager Intern | Clearwater, FL | Summer 2027 | https://job-boards.greenhouse.io/knowbe4/jobs/8919274002
