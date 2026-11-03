@@ -787,3 +787,5 @@
 - [ ] **Signet Jewelers** - Data Analytics Intern | Akron, OH | Summer 2027 | https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317
 - [ ] **Signet Jewelers** - Data Analytics Intern | Akron, OH | Summer 2027 | https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1
 - [ ] **NVIDIA** - Math Libraries Intern | Canada, Santa Clara, CA, United States | Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449
+- [ ] **NVIDIA** - AI Compiler and Kernel Intern | Austin, TX | Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
+- [ ] **Paccar** - Software Developer Intern | Denton, TX | Summer 2027 | https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors
