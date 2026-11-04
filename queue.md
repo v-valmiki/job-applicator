@@ -836,3 +836,9 @@
 - [ ] **Electronic Arts** - Anticheat Engineer Intern | Austin, TX | Summer 2027 | https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242
 - [ ] **Tesla** - Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/288805
 - [ ] **Sun Life** - Business Operations Software Engineer Co-op | Milwaukee, WI, Kansas City, MO, Hartford, CT, Portland, ME, Wellesley, MA | Winter 2027 | https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863
+- [ ] **Itron** - Data Analytics and Automation Intern - Finance | Liberty Lake, WA | Summer 2027 | https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020
+- [ ] **Etched** - IA Research Engineer Intern - Kernels | San Jose, CA | Fall 2027 | https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true
+- [ ] **Itron** - Data Analytics and Automation Intern - Finance | Liberty Lake, WA | Summer 2027 | https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020-1
+- [ ] **Saronic** - Enterprise Technology Intern - AI and Automation | Austin, TX | Spring 2027, Summer 2027 | https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true
+- [ ] **William Blair** - Agentic AI Development Intern | Chicago, IL | Summer 2027 | https://www.williamblair.com/Careers/job-description?gh_jid=5242282007
+- [ ] **Lawrence Livermore National Laboratory (LLNL)** - Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute | Livermore, CA | Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016610216
