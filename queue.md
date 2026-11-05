@@ -848,3 +848,17 @@
 - [ ] **Northrop Grumman** - Software Engineer Intern | Roy, UT | Summer 2027 | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181
 - [ ] **Parsons** - AI/ML Engineer Intern | Centreville, VA, United States | Summer 2027 | https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194
 - [ ] **Great American Insurance Company** - Business Intelligence Intern - Power BI | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843
+- [ ] **Baird** - Automation & AI Solutions Intern | Milwaukee, WI | Summer 2027 | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1
+- [ ] **SharkNinja** - Product Development Co-op | Needham, MA | Spring 2027 | https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726452006
+- [ ] **Berkshire Hathaway Energy** - Renewable Generation Performance Intern | Des Moines, IA | Summer 2027 | https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008
+- [ ] **SK hynix** - Software Engineer Intern | San Jose, CA | Winter 2027 | https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009
+- [ ] **Chubb** - Business Intelligence Intern | Chicago, IL | Summer 2027 | https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335
+- [ ] **Leidos** - Software Engineering & AI Intern | Remote in USA, Shiloh, IL, Odenton, MD | Summer 2027 | https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220
+- [ ] **Amgen** - Graduate Intern | Remote in USA | Summer 2027 | https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585
+- [ ] **PayPal** - Machine Learning Engineer Intern | San Jose, CA | Summer 2027 | https://paypal.eightfold.ai/careers/job/274922983149
+- [ ] **Vizient** - Pharmacy Aggregation Intern | Washington, DC, Centennial, CO, Remote in USA, Edina, MN, Chicago, IL, Alpharetta, GA, Cape Girardeau, MO, Irving, TX | Summer 2027 | https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1
+- [ ] **PayPal** - Software Engineer Intern | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ | Summer 2027 | https://paypal.eightfold.ai/careers/job/274922982814
+- [ ] **Boston Scientific** - Urology R&D Software Engineering Co-op | Marlborough, MA, Maple Grove, MN | Winter 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813743813
+- [ ] **PayPal** - Mobile Engineer Intern | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ | Summer 2027 | https://paypal.eightfold.ai/careers/job/274922982818
+- [ ] **PayPal** - Data Scientist Intern | San Jose, CA | Summer 2027 | https://paypal.eightfold.ai/careers/job/274922982821
+- [ ] **Zebra Technologies** - Software Engineer Intern | Holtsville, NY | Summer 2027 | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657
