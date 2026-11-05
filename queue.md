@@ -900,3 +900,8 @@
 - [ ] **Susquehanna International Group** - Business Analytics AI Co-op | Bala Cynwyd, PA | N/A | https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false
 - [ ] **Noblis** - Data Science and Innovation Intern | Springfield, VA, Reston, VA | Summer 2027 | https://careers.noblis.org/jobs/28097?icims=1&lang=en-us
 - [ ] **Uline** - Marketing Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946
+- [ ] **NRDC** - Donor Systems Intern | NYC | Summer 2027 | https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false
+- [ ] **NRDC** - Knowledge Management Intern | Washington, DC | Summer 2027 | https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false
+- [ ] **JM Family** - Software Engineer Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199
+- [ ] **JM Family** - Analytics Intern | Deerfield Beach, FL | Summer 2027 | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200
+- [ ] **The Federal Reserve System** - Knowledge and Information Management Intern | Atlanta, GA | Summer 2027 | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908
