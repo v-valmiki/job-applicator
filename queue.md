@@ -862,3 +862,41 @@
 - [ ] **PayPal** - Mobile Engineer Intern | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ | Summer 2027 | https://paypal.eightfold.ai/careers/job/274922982818
 - [ ] **PayPal** - Data Scientist Intern | San Jose, CA | Summer 2027 | https://paypal.eightfold.ai/careers/job/274922982821
 - [ ] **Zebra Technologies** - Software Engineer Intern | Holtsville, NY | Summer 2027 | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657
+- [ ] **Blackhawk Network Holdings** - Technology Intern | Coppell, TX | Summer 2027 | https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false
+- [ ] **Wolf & Company** - AI & Automation Intern | Boston, MA | Summer 2027 | https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false
+- [ ] **Atlassian** - AI Research Intern | SF | Summer 2027 | https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job
+- [ ] **Alaska Air Group** - Software Engineer Intern | SeaTac, WA | Summer 2027 | https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false
+- [ ] **Alaska Air Group** - BI Analyst Intern | Renton, WA | Summer 2027 | https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false
+- [ ] **Alaska Air Group** - VR Development Intern | Renton, WA | Summer 2027 | https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false
+- [ ] **Alaska Air Group** - Guest Products Analyst Intern | SeaTac, WA | Summer 2027 | https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false
+- [ ] **Liberty Mutual** - Analyst Development Intern | Boston, MA, Seattle, WA, Plano, TX | Summer 2027 | https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false
+- [ ] **Peraton** - Social Media & Marketing Analyst Intern | San Diego, CA | Summer 2027 | https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false
+- [ ] **Novelis** - Automotive Engineering Co-op | Kennesaw, GA | Summer 2027 | https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false
+- [ ] **General Dynamics Mission Systems** - Software Engineering Intern | Lakewood, OH | Summer 2027 | https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false
+- [ ] **General Dynamics Mission Systems** - Software Engineering Intern | Manassas, VA | Summer 2027 | https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false
+- [ ] **State Farm** - Magnet Program Intern | Tempe, AZ | Spring 2027, Summer 2027, Fall 2027 | https://jobs.statefarm.com/jobs/46301?icims=1
+- [ ] **Peraton** - Cyber Research Intern | West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spring, MD, Bedford, NH | Summer 2027 | https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false
+- [ ] **State Farm** - Magnet Program @ University of Illinois Urbana-Champaign Intern | Champaign, IL | Spring 2027, Summer 2027, Fall 2027 | https://jobs.statefarm.com/jobs/46049?icims=1
+- [ ] **Constellation Energy** - Data & Digital Transformation Intern - Geysers | Middletown, CA | Summer 2027 | https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us
+- [ ] **Constellation Energy** - Load Forecasting & Analytics Intern | Baltimore, MD | Summer 2027 | https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us
+- [ ] **Constellation Energy** - Renewable Energy Intern | Houston, TX | Summer 2027 | https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us
+- [ ] **Constellation Energy** - Geothermal Production Analytics Engineer Intern | Middletown, CA | Summer 2027 | https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us
+- [ ] **Constellation Energy** - IT Development Intern | San Diego, CA | Summer 2027 | https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us
+- [ ] **Panasonic Holdings** - Product Management Intern | Bridgeton, MO | Summer 2027 | https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us
+- [ ] **Intercontinental Exchange** - Agentic AI Data Science Intern | Jacksonville, FL | Summer 2027 | https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Software Developer Intern | Jacksonville, FL | Summer 2027 | https://careers-ice.icims.com/jobs/14076/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Audit Analytics Intern | Atlanta, GA | Summer 2027 | https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Software Engineer Intern | Jacksonville, FL | Summer 2027 | https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Software Engineer Intern - Java | Jacksonville, FL | Summer 2027 | https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Product Management Intern | Atlanta, GA | Summer 2027 | https://careers-ice.icims.com/jobs/14065/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Trading System Development Intern | NYC | Summer 2027 | https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Software Engineer Intern | NYC | Summer 2027 | https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Software Engineering Intern | Jacksonville, FL | Summer 2027 | https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Regulatory Products Intern | NYC | Summer 2027 | https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false
+- [ ] **Intercontinental Exchange** - Integration Intern | Jacksonville, FL | Summer 2027 | https://careers-ice.icims.com/jobs/14071/job?mobile=true&needsRedirect=false
+- [ ] **Resonetics** - HR AI Automation Co-op | Nashua, NH | Winter 2027 | https://careers-resonetics.icims.com/jobs/5550/job?mobile=true&needsRedirect=false
+- [ ] **SimVentions** - Software Development Intern | Fredericksburg, VA | Summer 2027 | https://careers-simventions.icims.com/jobs/1631/job?mobile=true&needsRedirect=false
+- [ ] **Susquehanna International Group** - Technology Co-op | Bala Cynwyd, PA | N/A | https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false
+- [ ] **Susquehanna International Group** - Business Analytics AI Co-op | Bala Cynwyd, PA | N/A | https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false
+- [ ] **Noblis** - Data Science and Innovation Intern | Springfield, VA, Reston, VA | Summer 2027 | https://careers.noblis.org/jobs/28097?icims=1&lang=en-us
+- [ ] **Uline** - Marketing Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946
