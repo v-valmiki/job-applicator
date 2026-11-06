@@ -931,3 +931,18 @@
 - [ ] **Zoox** - Software Engineer Intern - Software Systems | Foster City, CA | Summer 2027 | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
 - [ ] **Zoox** - Software Engineer Intern - Software Platforms & Product | Foster City, CA | Summer 2027 | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
 - [ ] **Uhaul** - Rates & Distribution Intern | Phoenix, AZ | Spring 2027 | https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Rates---Distribution-Spring-Intern_R259043
+- [ ] **Molina Healthcare** - Electronic Data Interchange Intern | Remote in USA | Summer 2027 | https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156
+- [ ] **TikTok** - POI Content Product Manager Intern | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7696000179569854725
+- [ ] **Molina Healthcare** - Data Analytics Intern | United States | Summer 2027 | https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160
+- [ ] **Tinder** - Android Engineer Intern | LA | Summer 2027 | https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply
+- [ ] **Tinder** - Backend Engineer Intern | Palo Alto, CA, LA | Summer 2027 | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
+- [ ] **Tinder** - Data Scientist Intern | SF | Summer 2027 | https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply
+- [ ] **Tinder** - Machine Learning Engineer Intern | Palo Alto, CA | Summer 2027 | https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply
+- [ ] **Tinder** - iOS Engineer Intern | Palo Alto, CA, LA | Summer 2027 | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
+- [ ] **The New York Times** - Interactive News Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005
+- [ ] **Uhaul** - Data Analyst Intern | Phoenix, AZ | Spring 2027 | https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909
+- [ ] **T-Mobile** - Software Engineer Intern | Overland Park, KS | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739
+- [ ] **T-Mobile** - Software Engineering Intern | Overland Park, KS | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734
+- [ ] **CACI** - Software Engineering Co-op | King of Prussia, PA | Spring 2027 | https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665
+- [ ] **S&P Global** - Managed Data Services Intern - Ilevel - GP Mds | Dallas, TX | Summer 2027 | https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1
+- [ ] **CACI** - AI/ML Engineering Co-op | King of Prussia, PA | Spring 2027 | https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1
