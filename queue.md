@@ -926,3 +926,8 @@
 - [ ] **CrowdStrike** - Intelligence Intern | Arlington County, Arlington, VA | Summer 2027 | https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605
 - [ ] **Eversource Energy** - Electric Operations Intern | Dorchester, Boston, MA | Summer 2027 | https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507
 - [ ] **CrowdStrike** - Sales Data Analytics Intern | Arlington County, Arlington, VA, Sunnyvale, CA | Summer 2027 | https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801
+- [ ] **Invesco** - Digital Product Management Intern | Atlanta, GA | Summer 2027 | https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1
+- [ ] **Invesco** - Digital Product Management Intern | Atlanta, GA | Summer 2027 | https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876
+- [ ] **Zoox** - Software Engineer Intern - Software Systems | Foster City, CA | Summer 2027 | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
+- [ ] **Zoox** - Software Engineer Intern - Software Platforms & Product | Foster City, CA | Summer 2027 | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
+- [ ] **Uhaul** - Rates & Distribution Intern | Phoenix, AZ | Spring 2027 | https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Rates---Distribution-Spring-Intern_R259043
