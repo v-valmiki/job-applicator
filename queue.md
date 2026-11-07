@@ -946,3 +946,36 @@
 - [ ] **CACI** - Software Engineering Co-op | King of Prussia, PA | Spring 2027 | https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665
 - [ ] **S&P Global** - Managed Data Services Intern - Ilevel - GP Mds | Dallas, TX | Summer 2027 | https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1
 - [ ] **CACI** - AI/ML Engineering Co-op | King of Prussia, PA | Spring 2027 | https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1
+- [ ] **SharkNinja** - Applied AI & Analytics Co-op | Miami, FL, Needham, MA, NYC | Spring 2027 | https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006
+- [ ] **The Federal Reserve System** - Statistics Intern | Atlanta, GA | Summer 2027 | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876
+- [ ] **Deeplocal** - Creative Technology Intern | Pittsburgh, PA | Summer 2027 | https://job-boards.greenhouse.io/deeplocal/jobs/8360330
+- [ ] **Vizient** - Intern Revenue Intelligence - Revenue Intelligence | Centennial, CO, Chicago, IL, Irving, TX | Summer 2027 | https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Revenue-Intelligence_36048R-1
+- [ ] **The New York Times** - Backend Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005
+- [ ] **The New York Times** - Android Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005
+- [ ] **The New York Times** - Full-Stack Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005
+- [ ] **The New York Times** - iOS Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005
+- [ ] **The New York Times** - Frontend Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005
+- [ ] **Tesla** - Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/289240
+- [ ] **Enovation Controls** - Embedded Machine Learning Engineer Intern | Tulsa, OK | Summer 2027 | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257
+- [ ] **Enovation Controls** - Manufacturing Software Engineer Intern | Tulsa, OK | Summer 2027 | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416
+- [ ] **Great American Insurance Company** - Claims Technical Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Intern---Summer-2027_R9873-1
+- [ ] **Salesforce** - Product Management Intern - Product Management | SF, NYC | Summer 2027 | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659
+- [ ] **Notion** - Software Engineer Intern - iOS | NYC | Summer 2027 | https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true
+- [ ] **Notion** - Software Engineer Intern - Frontend | NYC | Summer 2027 | https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true
+- [ ] **United Parcel Service** - Summer Engineer Intern | Middleburg Heights, OH | Summer 2027 | https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950
+- [ ] **T-Mobile** - Data Engineering Intern | Frisco, TX, Atlanta, GA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755
+- [ ] **T-Mobile** - Software Engineer Intern - HR Data Products | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916
+- [ ] **T-Mobile** - Data Engineer Intern | Frisco, TX, Atlanta, GA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754
+- [ ] **T-Mobile** - Software Engineer Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768
+- [ ] **T-Mobile** - AI Strategist Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279
+- [ ] **Corning** - Image Analysis Intern | Corning, NY | Summer 2027 | https://corningjobs.corning.com/job/Corning-Intern,-Image-Analysis-Summer-2027-NY-14831/1448762800/?ats=successfactors
+- [ ] **T-Mobile** - Software Engineer Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917
+- [ ] **T-Mobile** - Software Engineer HR Data Products Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766
+- [ ] **T-Mobile** - AI Engineering Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765
+- [ ] **T-Mobile** - AI Engineering Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198
+- [ ] **T-Mobile** - AI Engineering Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194
+- [ ] **Invesco** - Data Science Intern - Real Estate | Dallas, TX | Summer 2027 | https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091
+- [ ] **L.L.Bean** - Business Analyst/Data Analyst Intern | Freeport, ME | Summer 2027 | https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275
+- [ ] **L.L.Bean** - Software Developer Intern | Freeport, ME | Summer 2027 | https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1
+- [ ] **Invesco** - Data Science Intern - Real Estate | Dallas, TX | Summer 2027 | https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1
+- [ ] **Salesforce** - Product Management Intern - Product Management | SF, NYC | Summer 2027 | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1
