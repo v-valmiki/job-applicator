@@ -979,3 +979,7 @@
 - [ ] **L.L.Bean** - Software Developer Intern | Freeport, ME | Summer 2027 | https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1
 - [ ] **Invesco** - Data Science Intern - Real Estate | Dallas, TX | Summer 2027 | https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1
 - [ ] **Salesforce** - Product Management Intern - Product Management | SF, NYC | Summer 2027 | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1
+- [ ] **TikTok** - GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7696000178264361269
+- [ ] **TikTok** - Data Operations Intern | LA | Summer 2027 | https://lifeattiktok.com/search/7704912455690504453
+- [ ] **Zoox** - Data Scientist Intern | Boston, MA, Foster City, CA | Summer 2027 | https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply
+- [ ] **Category Labs** - Research Intern | NYC | Summer 2027 | https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true
