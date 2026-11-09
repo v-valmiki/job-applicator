@@ -986,3 +986,12 @@
 - [ ] **DriveWealth** - AI Consulting Associate Program Brokerage Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true
 - [ ] **Tesla** - Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | Summer 2027 | https://www.tesla.com/careers/search/job/289241
 - [ ] **Shield AI** - Engineer 2 New Grad - Multiple Teams | Washington, DC | Summer 2027 | https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply
+- [ ] **Haskell** - AI Engineering Design Intern for Facility Design | Jacksonville, FL | Summer 2027 | https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us
+- [ ] **Badger Meter** - Product Management Intern | Milwaukee, WI | Summer 2027 | https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676
+- [ ] **Haskell** - AI Engineering Design Intern for Facility Design | Jacksonville, FL | Summer 2027 | https://careers.haskell.com/jobs/7415?icims=1&lang=en-us
+- [ ] **Apache Industrial** - AI Implementation Intern | Houston, TX | Fall 2026, Winter 2027 | https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510
+- [ ] **General Dynamics Mission Systems** - Full-Stack Software Engineer Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false
+- [ ] **General Dynamics Mission Systems** - Full-Stack Application Development Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false
+- [ ] **Enova** - Analytics Intern | Chicago, IL | Summer 2027 | https://job-boards.greenhouse.io/enova/jobs/8366036
+- [ ] **DwyerOmega** - Product Management Intern - Pressure & Force | Michigan City, IN, Sunbury, OH | Summer 2027 | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741
+- [ ] **Pyrotek** - Product Management Intern | Spokane, WA | Summer 2027 | https://jobs.smartrecruiters.com/Pyrotek3/744000160635163
