@@ -985,3 +985,4 @@
 - [ ] **Category Labs** - Research Intern | NYC | Summer 2027 | https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true
 - [ ] **DriveWealth** - AI Consulting Associate Program Brokerage Intern | Chicago, IL | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true
 - [ ] **Tesla** - Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | Summer 2027 | https://www.tesla.com/careers/search/job/289241
+- [ ] **Shield AI** - Engineer 2 New Grad - Multiple Teams | Washington, DC | Summer 2027 | https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply
