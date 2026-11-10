@@ -995,3 +995,51 @@
 - [ ] **Enova** - Analytics Intern | Chicago, IL | Summer 2027 | https://job-boards.greenhouse.io/enova/jobs/8366036
 - [ ] **DwyerOmega** - Product Management Intern - Pressure & Force | Michigan City, IN, Sunbury, OH | Summer 2027 | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741
 - [ ] **Pyrotek** - Product Management Intern | Spokane, WA | Summer 2027 | https://jobs.smartrecruiters.com/Pyrotek3/744000160635163
+- [ ] **Biodesix** - Software Development Intern | Louisville, CO | Summer 2027 | https://www.biodesix.com/careers/current-openings?gh_jid=4485410009
+- [ ] **Biodesix** - Data Analytics & Business Intelligence Intern | Louisville, CO | Summer 2027 | https://www.biodesix.com/careers/current-openings?gh_jid=4485182009
+- [ ] **Biodesix** - AI Research & Development Intern | Louisville, CO | Summer 2027 | https://www.biodesix.com/careers/current-openings?gh_jid=4485306009
+- [ ] **Art of Problem Solving** - Software Engineer Intern | San Diego, CA | Summer 2027 | https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003
+- [ ] **Lila Sciences** - Applied AI Platform Engineer Co-op | SF | N/A | https://job-boards.greenhouse.io/lilasciences/jobs/4472540009
+- [ ] **Amazon** - Software Engineer Intern | Boston, MA, Seattle, WA, Austin, TX, Arlington County, Arlington, VA, Denver, CO | Summer 2027, Winter 2027, Fall 2027 | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
+- [ ] **Tonic** - Forward Deployed Engineer Co-op - Data De-Identification | Remote in USA | N/A | https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true
+- [ ] **Warner Bros.** - Software Engineer Co-op | Needham, MA | Spring 2027 | https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Engineering-Co-op--Needham--MA---January-May-2027_R000109901
+- [ ] **Great American Insurance Company** - Telematics / Predictive Analytics Intern | Cincinnati, OH | Summer 2027 | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868
+- [ ] **Warner Bros.** - Product Management Co-op | Needham, MA | Spring 2027 | https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850
+- [ ] **Warner Bros.** - Data Engineering Co-op | Needham, MA | Spring 2027 | https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Data-Engineering-Co-op--Needham--MA---January-May-2027_R000109902
+- [ ] **Ryan** - Application Development Intern - Application Development | Burlington, VT | Summer 2027 | https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810
+- [ ] **7-Eleven** - Data Engineer Intern | Irving, TX | Summer 2027 | https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281
+- [ ] **Uhaul** - Software Development Intern | Phoenix, AZ | Spring 2027 | https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167
+- [ ] **Johns Hopkins Applied Physics Laboratory** - Artificial Intelligence Intern - Information Fusion | Laurel, MD | Summer 2027 | https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us
+- [ ] **Ryan** - Application Development Intern - Application Development | Burlington, VT | Summer 2027 | https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1
+- [ ] **Integration Innovation (i3)** - Data Management Intern | Huntsville, AL | Summer 2027 | https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us
+- [ ] **Fortrea** - AIML Rapid Development Studio Intern | Remote in USA | Summer 2027 | https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655
+- [ ] **Persona AI** - Humanoid Robotics Software Intern | Houston, TX, Pensacola, FL | Spring 2027, Summer 2027, Fall 2027 | https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb/application?embed=true
+- [ ] **CSAA Insurance Group** - Advanced Analysis Intern | Phoenix, AZ | Summer 2027 | https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1
+- [ ] **Radiance Technologies** - Software Engineer Intern | Beavercreek, OH | Spring 2027, Summer 2027 | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562
+- [ ] **Radiance Technologies** - Software Engineer Intern | Beavercreek, OH | Spring 2027, Summer 2027 | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563
+- [ ] **The New York Times** - Data Analyst Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005
+- [ ] **ASML** - AI Engineer Co-op Intern | San Diego, CA | N/A | https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627
+- [ ] **The New York Times** - Machine Learning Scientist Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005
+- [ ] **ASML** - AI Engineer Co-op Intern | San Diego, CA | N/A | https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629
+- [ ] **ASML** - AI Engineer Co-op Intern | San Diego, CA | N/A | https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628
+- [ ] **J.M. Smucker** - Finance Technology Intern | Orrville, OH | Summer 2027 | https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135
+- [ ] **Boston Scientific** - Urology R&D Software Engineering Co-op | Marlborough, MA, Maple Grove, MN | Winter 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813900562
+- [ ] **General Dynamics Mission Systems** - Software Engineer Intern | Manassas, VA | Summer 2027 | https://careers-gdms.icims.com/jobs/79755/job?mobile=true&needsRedirect=false
+- [ ] **UiPath** - Software Engineer Intern | Bellevue, WA | Summer 2027 | https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true
+- [ ] **Scout Motors** - Products Intern | Charlotte, NC | Summer 2027 | https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007
+- [ ] **Scout Motors** - Digital Products Intern | Charlotte, NC | Summer 2027 | https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007
+- [ ] **Highmark Health** - Reporting and Analytics Undergraduate Intern | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Summer 2027 | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987
+- [ ] **Vizient** - Data Management Intern | Irving, TX | Summer 2027 | https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R
+- [ ] **DreamWorks Animation** - Software Engineer Intern | NYC | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459
+- [ ] **DreamWorks Animation** - Digital Transformation AR/VR Intern | Universal City, LA | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160647460
+- [ ] **DreamWorks Animation** - Studio Operations – Data Analytics Intern | Universal City, LA | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109
+- [ ] **DreamWorks Animation** - Streaming Platforms – Product Management Intern | NYC | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249
+- [ ] **DreamWorks Animation** - Media Tech: Data – AI & Machine Learning Intern | NYC | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767
+- [ ] **DreamWorks Animation** - Media Tech: Product & Engineering Intern | NYC | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809
+- [ ] **DreamWorks Animation** - Media Tech: Data – AI & Machine Learning Intern | Universal City, LA | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935
+- [ ] **DreamWorks Animation** - Advertising & Partnerships: Data Science Intern | NYC | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930
+- [ ] **DreamWorks Animation** - Software Engineer Intern | Universal City, LA | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379
+- [ ] **DreamWorks Animation** - Advertising & Partnerships: Ad Products Intern | NYC | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479
+- [ ] **Paccar** - Greenhouse Gas Data Analyst Intern | Kirkland, WA | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors
+- [ ] **General Dynamics Mission Systems** - Ontology Data Analysis and Validation Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false
+- [ ] **General Dynamics Mission Systems** - Ontology and Semantic Engineering Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false
