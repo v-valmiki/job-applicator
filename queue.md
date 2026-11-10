@@ -1059,3 +1059,12 @@
 - [ ] **Selective Insurance** - IT Claims Application Delivery Intern | Charlotte, NC | Summer 2027 | https://jobs.selective.com/jobs/5750?icims=1&lang=en-us
 - [ ] **Selective Insurance** - IT Information Management Intern | Charlotte, NC | Summer 2027 | https://jobs.selective.com/jobs/5757?icims=1&lang=en-us
 - [ ] **Selective Insurance** - Business Intelligence & Insights Intern | Branchville, NJ | Summer 2027 | https://jobs.selective.com/jobs/5707?icims=1&lang=en-us
+- [ ] **TikTok** - Product Operations Intern | LA | Summer 2027 | https://lifeattiktok.com/search/7704784971953916213
+- [ ] **Moderna** - mRNA Design Engineer Co-op | Cambridge, MA | Winter 2027 | https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125
+- [ ] **Legrand** - Product Management Intern | Syracuse, NY | Summer 2027 | https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837
+- [ ] **DP World** - AI & Analytics Intern - Talent Management | Charlotte, NC | Summer 2027 | https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855
+- [ ] **T-Mobile** - Software Engineer Intern - T-Ads | Philadelphia, PA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
+- [ ] **NVIDIA** - AI Operations Intern - AI Clouds | Santa Clara, CA | Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
+- [ ] **T-Mobile** - Business Analytics & Reporting Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319
+- [ ] **T-Mobile** - Software Engineer Intern | Philadelphia, PA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225
+- [ ] **EquipmentShare** - Uptime Management Center Intern | Columbia, MO | Spring 2027 | https://www.equipmentshare.com/careers/openings/?gh_jid=8371863
