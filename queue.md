@@ -1043,3 +1043,19 @@
 - [ ] **Paccar** - Greenhouse Gas Data Analyst Intern | Kirkland, WA | Summer 2027 | https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors
 - [ ] **General Dynamics Mission Systems** - Ontology Data Analysis and Validation Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false
 - [ ] **General Dynamics Mission Systems** - Ontology and Semantic Engineering Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false
+- [ ] **Auburn University** - Information Technology Co-op | Auburn, AL | N/A | https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us
+- [ ] **FM Global** - Underwriting Systems & Analytics Intern | Johnston, RI | Spring 2027 | https://careers.fm.com/jobs/2143?icims=1&lang=en-us
+- [ ] **Klaviyo** - Machine Learning Engineer Intern | Palo Alto, CA | Summer 2027 | https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/1fa911e4-18cd-4572-85ce-19f8fb24e5df/application?embed=true
+- [ ] **Klaviyo** - Software Engineer Co-op | Boston, MA | Spring 2027 | https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/e43e7edf-f5c7-4e3c-b62d-92ebfa5120fa/application?embed=true
+- [ ] **Klaviyo** - AI Engineer Intern | Boston, MA | Summer 2027 | https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/d1752b32-eebe-4edd-9e51-3ef06a3b75a2/application?embed=true
+- [ ] **Moss** - Intern - Multiple Teams | SF | Spring 2027 | https://jobs.ashbyhq.com/mossrobotics/d16d9e47-fc07-4e49-95dc-6a997421114c/application?embed=true
+- [ ] **The Marzetti Company** - IT Analytics Intern | Columbus, OH | Summer 2027 | https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us
+- [ ] **Trilogy Health Services** - Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | Summer 2027 | https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us
+- [ ] **Selective Insurance** - IT Information Management Intern | Charlotte, NC | Summer 2027 | https://jobs.selective.com/jobs/5689?icims=1&lang=en-us
+- [ ] **Tesla** - Mobile Application Developer Intern | Palo Alto, CA | Winter 2027, Spring 2027 | https://www.tesla.com/careers/search/job/289480
+- [ ] **Selective Insurance** - IT Commercial Lines Summer Intern | Charlotte, NC, Hartford, CT | Summer 2027 | https://jobs.selective.com/jobs/5701?icims=1&lang=en-us
+- [ ] **Selective Insurance** - Commercial Lines Product Intern | Short Hills, Millburn, NJ, Hartford, CT | Summer 2027 | https://jobs.selective.com/jobs/5709?icims=1&lang=en-us
+- [ ] **Selective Insurance** - IT Information Management Intern | Short Hills, Millburn, NJ | Summer 2027 | https://jobs.selective.com/jobs/5777?icims=1&lang=en-us
+- [ ] **Selective Insurance** - IT Claims Application Delivery Intern | Charlotte, NC | Summer 2027 | https://jobs.selective.com/jobs/5750?icims=1&lang=en-us
+- [ ] **Selective Insurance** - IT Information Management Intern | Charlotte, NC | Summer 2027 | https://jobs.selective.com/jobs/5757?icims=1&lang=en-us
+- [ ] **Selective Insurance** - Business Intelligence & Insights Intern | Branchville, NJ | Summer 2027 | https://jobs.selective.com/jobs/5707?icims=1&lang=en-us
