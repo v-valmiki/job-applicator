@@ -1089,3 +1089,25 @@
 - [ ] **SharkNinja** - Product Test Engineering Co-op | Needham, MA | Spring 2027 | https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006
 - [ ] **General Motors** - Software Engineer Intern - Machine Learning Engineer - Embodied AI | Sunnyvale, CA | Summer 2027 | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034
 - [ ] **Eversource Energy** - GIS Intern | Manchester, NH | Summer 2027 | https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537
+- [ ] **Schneider Electric** - Offer Management Intern | Florham Park, NJ | Summer 2027 | https://se.jibeapply.com/jobs/141359?icims=1&lang=en-us
+- [ ] **Vizient** - Spend Management Insights Intern | Irving, TX | Summer 2027 | https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R
+- [ ] **Skydio** - Middleware Software Engineer Intern | San Mateo, CA | Summer 2027 | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true
+- [ ] **Echo Global Logistics** - Software Engineer Intern | United States | Summer 2027 | https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1
+- [ ] **DwyerOmega** - Applied AI Intern | Remote in USA | Summer 2027 | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662
+- [ ] **DwyerOmega** - Applied AI Intern | Remote in USA | Spring 2027 | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822
+- [ ] **CenturyLink** - AI Product & Business Innovation Intern | Remote in USA | Summer 2027 | https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors
+- [ ] **CenturyLink** - AI & Automation Builders Internship | Remote in USA | Summer 2027 | https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors
+- [ ] **Blue Cross Blue Shield of Michigan** - Digital Product Intern | Detroit, MI | Summer 2027 | https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151
+- [ ] **JMP Statistical Discovery** - C++ Software Development Intern | Cary, NC | Summer 2027 | https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false
+- [ ] **General Dynamics Information Technology** - AI/ML Business Intelligence Development Intern | Bossier City, LA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935
+- [ ] **Rambus** - Product Engineer Intern | San Jose, CA | Summer 2027 | https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false
+- [ ] **Art of Problem Solving** - Data Science Intern | San Diego, CA | Summer 2027 | https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003
+- [ ] **International** - Artificial Intelligence/Machine Learning Intern | Lisle, IL | Summer 2027 | https://careers.international.com/jobs/60456?icims=1&lang=en-us
+- [ ] **Hunt Oil Company** - Application Developer Intern | Dallas, TX | Summer 2027 | https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104
+- [ ] **Booz Allen** - Data Scientist Intern | McLean, VA | Spring 2027 | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332
+- [ ] **Tesla** - Software Developer Intern - IT Apps | Fremont, CA | Summer 2027 | https://www.tesla.com/careers/search/job/289683
+- [ ] **Shield AI** - Software Engineer Intern | San Diego, CA | Summer 2027 | https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true
+- [ ] **Shield AI** - Software Engineer Intern | San Diego, CA | Summer 2027 | https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true
+- [ ] **Shield AI** - Software Engineer Intern Co-op | Dallas, TX | Summer 2027 | https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true
+- [ ] **Formulary Financial** - Software Engineer Intern | NYC | Summer 2027 | https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true
+- [ ] **RTX** - Software Engineer Intern | Richardson, TX | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049
