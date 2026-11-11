@@ -1111,3 +1111,5 @@
 - [ ] **Shield AI** - Software Engineer Intern Co-op | Dallas, TX | Summer 2027 | https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true
 - [ ] **Formulary Financial** - Software Engineer Intern | NYC | Summer 2027 | https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true
 - [ ] **RTX** - Software Engineer Intern | Richardson, TX | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049
+- [ ] **Riot Games** - Data Engineer Intern | Remote in USA | Summer 2027 | https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716
+- [ ] **Trilogy Health Services** - Value Based Care Finance Intern | Louisville, KY | Summer 2027 | https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us
