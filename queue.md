@@ -1113,3 +1113,8 @@
 - [ ] **RTX** - Software Engineer Intern | Richardson, TX | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049
 - [ ] **Riot Games** - Data Engineer Intern | Remote in USA | Summer 2027 | https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716
 - [ ] **Trilogy Health Services** - Value Based Care Finance Intern | Louisville, KY | Summer 2027 | https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us
+- [ ] **APEX Analytix** - Product Management Intern | Greensboro, NC | Summer 2027 | https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9
+- [ ] **ChukMedia** - Data Analytics Resident | NYC | Winter 2027 | https://chukmedia.com/careers/?gh_jid=8191173
+- [ ] **Dow Chemical Company** - Infrastructure Mapping & Data Quality Co-op | Midland, MI | N/A | https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169
+- [ ] **Ribbon** - AI Engineer Co-op | Westford, MA | Winter 2027 | https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083
+- [ ] **The Marzetti Company** - AI Solutions Intern - Human Resources | Columbus, OH | Summer 2027 | https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us
