@@ -1145,3 +1145,19 @@
 - [ ] **Nintendo** - Software Engineer Intern - Audio | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4470048009
 - [ ] **Nintendo** - Software Engineer Intern - Graphics | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4473550009
 - [ ] **Nintendo** - Software Engineer Intern - CPU Debugger - NTD | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4471972009
+- [ ] **Microsoft** - Data Scientist Intern - CoreAI | Redmond, WA | Summer 2027 | https://apply.careers.microsoft.com/careers/job/1970393557027390
+- [ ] **Omya** - Data Scientist Co-op | Cincinnati, OH | Spring 2027 | https://omya.wd3.myworkdayjobs.com/Omya/job/CincinnatiOH/Data-Scientist-Spring-Co-Op-2027_JR018275
+- [ ] **Vizient** - Contract Operations Intern - Analytics | Irving, TX | Summer 2027 | https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1
+- [ ] **SharkNinja** - Data Science Intern | Needham, MA | Summer 2027 | https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006
+- [ ] **State Farm** - Property and Casualty Underwriting Intern - Knowledge Management | Richardson, TX, Bloomington, IL | Summer 2027 | https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us
+- [ ] **Bracco** - Software Engineer Intern/Co-op - R&D Sustaining | Eden Prairie, MN | Winter 2027, Summer 2027 | https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327
+- [ ] **Greystone** - Full Stack Engineer Intern | Warrenton, VA | Summer 2027 | https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145
+- [ ] **Martin Marietta** - Telematics Intern | Dallas, TX | Summer 2027 | https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Dallas-TX/Intern--Telematics--Summer-2027-_JR024021-1
+- [ ] **Martin Marietta** - Geographic Information Systems Intern | Raleigh, NC | Summer 2027 | https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Geographic-Information-Systems--Summer-2027-_JR023605
+- [ ] **Trinity Life Sciences** - Data Science Intern | Waltham, MA, NYC | Summer 2027 | https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881
+- [ ] **Illinois Tool Works** - Product Management Intern | Troy, MI | Summer 2027 | https://itw.wd5.myworkdayjobs.com/external/job/Troy---101-Trade-Sq-E/Product-Management-Intern---Summer-2026_JR10105
+- [ ] **Illinois Tool Works** - Software Engineer Intern - Application Software | Eden Prairie, MN | Summer 2027 | https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1
+- [ ] **Illinois Tool Works** - Software Engineer Intern | United States | Summer 2027 | https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261
+- [ ] **Chatham Financial** - Software Engineer Intern | Kennett Square, PA | Summer 2027 | https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348
+- [ ] **Chatham Financial** - Software Engineer Intern | Denver, CO | Summer 2027 | https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349
+- [ ] **Fresenius Medical Care** - Agentic AI Analytics Co-op | Lawrence, MA | N/A | https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797
