@@ -1136,3 +1136,12 @@
 - [ ] **PTC** - Creo Core Geometry Intern | Boston, MA | Summer 2027 | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959
 - [ ] **PTC** - Creo Graphics Engineering Intern | Boston, MA | Summer 2027 | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970
 - [ ] **Riot Games** - Technical Game Design Intern - League of Legends and Teamfight Tactics | LA | Summer 2027 | https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525
+- [ ] **Shield AI** - Engineer 2 New Grad - Software - Autonomy Capabilities | United States | Summer 2027 | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true
+- [ ] **RTX** - Software Engineer Intern | West Valley City, UT | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1
+- [ ] **Nintendo** - Software Engineer Intern - Platform Security | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4469778009
+- [ ] **Nintendo** - Software Engineer Intern - CPU Profiler | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4469762009
+- [ ] **Nintendo** - Software Engineer Intern - Performance Tools | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4473568009
+- [ ] **Nintendo** - Software Engineer Intern - Connectivity | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4472147009
+- [ ] **Nintendo** - Software Engineer Intern - Audio | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4470048009
+- [ ] **Nintendo** - Software Engineer Intern - Graphics | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4473550009
+- [ ] **Nintendo** - Software Engineer Intern - CPU Debugger - NTD | Redmond, WA | Summer 2027 | https://careers.nintendo.com/?gh_jid=4471972009
