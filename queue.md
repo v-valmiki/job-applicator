@@ -1118,3 +1118,21 @@
 - [ ] **Dow Chemical Company** - Infrastructure Mapping & Data Quality Co-op | Midland, MI | N/A | https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169
 - [ ] **Ribbon** - AI Engineer Co-op | Westford, MA | Winter 2027 | https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083
 - [ ] **The Marzetti Company** - AI Solutions Intern - Human Resources | Columbus, OH | Summer 2027 | https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us
+- [ ] **McDonald's** - Global Tech Infrastructure & Operations Intern | Chicago, IL | Summer 2027 | https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors
+- [ ] **FNBO** - Banking Product Intern | Omaha, NE | Summer 2027 | https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996
+- [ ] **Brex** - Software Engineer Intern | SF | Summer 2027 | https://www.brex.com/careers/8936403002?gh_jid=8936403002
+- [ ] **RTX** - Aftermarket & Sustainment Engineering Methods Engineering Intern | East Hartford, CT | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864
+- [ ] **RTX** - Software Engineer Intern | Cedar Rapids, IA | Summer 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055
+- [ ] **Parabola** - Engineer Intern | SF, NYC | Winter 2027 | https://jobs.ashbyhq.com/parabola-io/ec64d31c-ca7e-4633-b279-1589c53d7eb0/application?embed=true
+- [ ] **NBCUniversal** - Software Engineer Intern | Universal City, LA | Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529
+- [ ] **Woolpert** - Aviation Modeling & Simulation Intern | San Rafael, CA, Berkeley, CA | Summer 2027 | https://job-boards.greenhouse.io/woolpert/jobs/4430700009
+- [ ] **TRC Companies** - GIS Intern | Seattle, WA, Houston, TX, Lakewood, CO, Raleigh, NC, Chicago, IL, Phoenix, AZ | Summer 2027 | https://careers.trccompanies.com/jobs/28698?icims=1&lang=en-us
+- [ ] **Formlabs** - Manufacturing Test Software Intern - Manufacturing | Somerville, MA | Summer 2027 | https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598
+- [ ] **State of Wisconsin Investment Board** - Data Analytics Engineering Intern | Madison, WI | Summer 2027 | https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330
+- [ ] **Shield AI** - Engineer 2 New Grad - Software - Autonomy Capabilities | United States | Summer 2027 | https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true
+- [ ] **Panera Bread** - Data Science & AI Analytics Intern | Newton, MA | Summer 2027 | https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082
+- [ ] **Genentech** - Summer Intern - Digital, AI, and Clinical Outcome Assessments | South SF | Summer 2027 | https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790
+- [ ] **Farmers Mutual Hail** - AI Intern | West Des Moines, IA | Summer 2027 | https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009
+- [ ] **PTC** - Creo Core Geometry Intern | Boston, MA | Summer 2027 | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959
+- [ ] **PTC** - Creo Graphics Engineering Intern | Boston, MA | Summer 2027 | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970
+- [ ] **Riot Games** - Technical Game Design Intern - League of Legends and Teamfight Tactics | LA | Summer 2027 | https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525
