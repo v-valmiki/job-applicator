@@ -1161,3 +1161,9 @@
 - [ ] **Chatham Financial** - Software Engineer Intern | Kennett Square, PA | Summer 2027 | https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348
 - [ ] **Chatham Financial** - Software Engineer Intern | Denver, CO | Summer 2027 | https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349
 - [ ] **Fresenius Medical Care** - Agentic AI Analytics Co-op | Lawrence, MA | N/A | https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797
+- [ ] **T-Mobile** - Data Product Intern | Bellevue, WA | Summer 2027 | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212
+- [ ] **Muon Space** - Software Engineer Intern - Information Systems | San Jose, CA | Summer 2027 | https://job-boards.greenhouse.io/muonspace/jobs/5293973007
+- [ ] **Moderna** - Investigator Site Budgets & Contracts Co-op - Data Integration & Reporting | Cambridge, MA | N/A | https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170
+- [ ] **General Dynamics Information Technology** - Data Analytics Associate Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200
+- [ ] **Eversource Energy** - GIS Intern | Dorchester, Boston, MA | Summer 2027 | https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519
+- [ ] **Compassion International** - Creation Care GIS Analyst Intern | United States | Winter 2027 | https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/GIS-Geospatial-Analyst-Intern_R8713-2
