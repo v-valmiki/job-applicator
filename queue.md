@@ -1183,3 +1183,9 @@
 - [ ] **CoStar Group** - Vision & Learning Intern | Sunnyvale, CA | Summer 2027 | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196
 - [ ] **ASML** - Data Scientist Intern | Wilton, CT | Summer 2027 | https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462
 - [ ] **TikTok** - Machine Learning Engineer Intern | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7698822572474583301
+- [ ] **Federal Home Loan Bank of Dallas** - Digital Transformation Intern | Irving, TX | Spring 2027 | https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Spring-Digital-Transformation-Intern_REQ-456
+- [ ] **Federal Home Loan Bank of Dallas** - Accounting Tech Solutions Intern | Irving, TX | Summer 2027 | https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444
+- [ ] **JSX** - Commercial Intern | Dallas, TX | Summer 2027 | https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729
+- [ ] **Aurora Innovation** - Software Engineer Intern - Vehicle Platforms | Mountain View, CA | Summer 2027 | https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true
+- [ ] **The Toro Company** - CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Summer 2027 | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819
+- [ ] **Shield AI** - Human Machine Teaming Intern | Washington, DC | Summer 2027 | https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply
