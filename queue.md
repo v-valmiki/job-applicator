@@ -1167,3 +1167,19 @@
 - [ ] **General Dynamics Information Technology** - Data Analytics Associate Intern | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200
 - [ ] **Eversource Energy** - GIS Intern | Dorchester, Boston, MA | Summer 2027 | https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519
 - [ ] **Compassion International** - Creation Care GIS Analyst Intern | United States | Winter 2027 | https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/GIS-Geospatial-Analyst-Intern_R8713-2
+- [ ] **Carlisle Companies** - Product Management Intern | Carlisle, PA | Spring 2027 | https://jobs.smartrecruiters.com/Carlisle/3743990016055226
+- [ ] **Stratolaunch** - Business Intelligence & Systems Analyst Intern | Mojave, CA | Summer 2027 | https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008
+- [ ] **Jabil** - IT Programmer Analyst Intern Co-op | Florence, KY | Winter 2027 | https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333
+- [ ] **Entegris** - Product Management Intern | Colorado Springs, CO | Summer 2027 | https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838
+- [ ] **Environmental Defense Fund** - Consumer Energy Analytics Intern | Remote in USA, St. Petersburg, FL | Summer 2027 | https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752
+- [ ] **Entegris** - Data Engineering Intern | Aurora, IL | Summer 2027 | https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839
+- [ ] **Octant Bio** - Software Engineering Intern | Emeryville, CA | Summer 2027 | https://www.octant.bio/jobs?gh_jid=6260895004
+- [ ] **Cardinal Health** - Technology Intern | Dublin, OH | Summer 2027 | https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1
+- [ ] **CareSource** - Summer Internship Program – Provider Analytics AI Intern | Remote in USA | Summer 2027 | https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481
+- [ ] **CareSource** - Software Engineer Intern | Remote in USA | Summer 2027 | https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136
+- [ ] **CareSource** - Clinical Operations Business Analyst Intern | Remote in USA | Summer 2027 | https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353
+- [ ] **Vital Lyfe** - Software Engineer Intern | Torrance, CA | Summer 2027 | https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true
+- [ ] **General Dynamics Mission Systems** - Software/Systems Engineering Intern | Middletown, RI | Summer 2027 | https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false
+- [ ] **CoStar Group** - Vision & Learning Intern | Sunnyvale, CA | Summer 2027 | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196
+- [ ] **ASML** - Data Scientist Intern | Wilton, CT | Summer 2027 | https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462
+- [ ] **TikTok** - Machine Learning Engineer Intern | San Jose, CA | Summer 2027 | https://lifeattiktok.com/search/7698822572474583301
