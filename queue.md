@@ -1189,3 +1189,8 @@
 - [ ] **Aurora Innovation** - Software Engineer Intern - Vehicle Platforms | Mountain View, CA | Summer 2027 | https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true
 - [ ] **The Toro Company** - CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Summer 2027 | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819
 - [ ] **Shield AI** - Human Machine Teaming Intern | Washington, DC | Summer 2027 | https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply
+- [ ] **Verisk** - Data Science/AI Intern | Lehi, UT | Summer 2027 | https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184
+- [ ] **Merrick** - GIS Analyst Intern | Greenwood Village, CO | Summer 2027 | https://careers.merrick.com/jobs/8476?icims=1&lang=en-us
+- [ ] **Entegris** - Associate Product Manager Intern | Chaska, MN | Summer 2027 | https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844
+- [ ] **Rocket Mortgage** - Data Analyst Intern | Detroit, MI | Summer 2027 | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832
+- [ ] **Rocket Mortgage** - Customer Correspondence Analyst Intern | Detroit, MI | Summer 2027 | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1
