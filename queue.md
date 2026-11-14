@@ -1206,3 +1206,7 @@
 - [ ] **TC Energy** - Intelligent Operations Technology Intern | Spokane, WA | Summer 2027 | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919
 - [ ] **Nexus Cognitive Technologies** - Data Engineer Intern | Atlanta, GA | Summer 2027 | https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true
 - [ ] **Capital Group** - Global Technology Summer Associate Intern | Irvine, CA | Summer 2027 | https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798
+- [ ] **Carnegie Mellon University** - Full-Stack Software Development Intern | Pittsburgh, PA | Fall 2026 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2
+- [ ] **Carnegie Mellon University** - Cyber AI Engineer Intern | Pittsburgh, PA | Spring 2027 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2
+- [ ] **Carnegie Mellon University** - Agentic Development Intern | Pittsburgh, PA | Fall 2026 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1
+- [ ] **Carnegie Mellon University** - Enabling Mission Capability at Scale Intern | Pittsburgh, PA | Summer 2027 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1
