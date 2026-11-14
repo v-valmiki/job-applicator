@@ -1194,3 +1194,15 @@
 - [ ] **Entegris** - Associate Product Manager Intern | Chaska, MN | Summer 2027 | https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844
 - [ ] **Rocket Mortgage** - Data Analyst Intern | Detroit, MI | Summer 2027 | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832
 - [ ] **Rocket Mortgage** - Customer Correspondence Analyst Intern | Detroit, MI | Summer 2027 | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1
+- [ ] **Koch Industries** - Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Summer 2027 | https://koch.avature.net/en_US/careers/JobDetail/197821
+- [ ] **Vertex Pharmaceuticals** - Data Analytics Intern - OSD Process Data Analytics | Boston, MA | Summer 2027 | https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312
+- [ ] **Pennsylvania State University** - Energy Savings Program Intern | University Park, State College, PA | Spring 2027, Summer 2027 | https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1
+- [ ] **Addepar** - Product Analyst Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/addepar1/jobs/8910306002
+- [ ] **Trane Technologies** - Product Management Engineering Co-op | Pueblo, CO, Grand Rapids, MI | N/A | https://careers.tranetechnologies.com/global/en/job/JR-10435
+- [ ] **Manulife Financial** - Software Engineering Co-op Intern | Boston, MA | Spring 2027 | https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405
+- [ ] **Vertex Pharmaceuticals** - Data Analytics Intern - OSD Process Data Analytics | Boston, MA | Summer 2027 | https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2
+- [ ] **Horizon3.ai** - Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | Summer 2027 | https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true
+- [ ] **NextEra Energy** - Software Engineering Intern - Technical | St Paul, MN | Summer 2027 | https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors
+- [ ] **TC Energy** - Intelligent Operations Technology Intern | Spokane, WA | Summer 2027 | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919
+- [ ] **Nexus Cognitive Technologies** - Data Engineer Intern | Atlanta, GA | Summer 2027 | https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true
+- [ ] **Capital Group** - Global Technology Summer Associate Intern | Irvine, CA | Summer 2027 | https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798
