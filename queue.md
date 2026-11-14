@@ -1210,3 +1210,6 @@
 - [ ] **Carnegie Mellon University** - Cyber AI Engineer Intern | Pittsburgh, PA | Spring 2027 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2
 - [ ] **Carnegie Mellon University** - Agentic Development Intern | Pittsburgh, PA | Fall 2026 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1
 - [ ] **Carnegie Mellon University** - Enabling Mission Capability at Scale Intern | Pittsburgh, PA | Summer 2027 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1
+- [ ] **Camping World** - Software Engineer Intern | Chicago, IL | Summer 2027 | https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080
+- [ ] **Watts Water** - Product Management Co-op | Menomonee Falls, WI | Winter 2027, Spring 2027, Summer 2027 | https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1
+- [ ] **SAS** - Software Developer Intern - Go/Golang Experience | Cary, NC | Summer 2027 | https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false
