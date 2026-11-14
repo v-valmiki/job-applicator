@@ -1213,3 +1213,4 @@
 - [ ] **Camping World** - Software Engineer Intern | Chicago, IL | Summer 2027 | https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080
 - [ ] **Watts Water** - Product Management Co-op | Menomonee Falls, WI | Winter 2027, Spring 2027, Summer 2027 | https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1
 - [ ] **SAS** - Software Developer Intern - Go/Golang Experience | Cary, NC | Summer 2027 | https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false
+- [ ] **Cigna Group** - Healthcare Analytics Intern | Morris Plains, NJ | Summer 2027 | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857
