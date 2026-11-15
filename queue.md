@@ -1214,3 +1214,4 @@
 - [ ] **Watts Water** - Product Management Co-op | Menomonee Falls, WI | Winter 2027, Spring 2027, Summer 2027 | https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1
 - [ ] **SAS** - Software Developer Intern - Go/Golang Experience | Cary, NC | Summer 2027 | https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false
 - [ ] **Cigna Group** - Healthcare Analytics Intern | Morris Plains, NJ | Summer 2027 | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857
+- [ ] **RTX** - Software Engineering Co-op | Richardson, TX | Summer 2027, Fall 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404
