@@ -1217,3 +1217,10 @@
 - [ ] **RTX** - Software Engineering Co-op | Richardson, TX | Summer 2027, Fall 2027 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404
 - [ ] **Blizzard Entertainment** - Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA | Summer 2027 | https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350
 - [ ] **Oregon State University** - Student Developer Intern - CASS Software Development Group | Remote in USA, Corvallis, OR | Fall 2026 | https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296
+- [ ] **Fanatics** - Product Management Intern | Seattle, WA | Summer 2027 | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009
+- [ ] **Fanatics** - Product Intern - Physical Trading Cards | Coppell, TX | Summer 2027 | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009
+- [ ] **Fanatics** - People Intelligence Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009
+- [ ] **Fanatics** - Product Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009
+- [ ] **Carnegie Mellon University** - Agentic Development Intern | Pittsburgh, PA | Fall 2026 | https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Agentic-Development-Intern_2025292
+- [ ] **Carnegie Mellon University** - Full-Stack Software Development Intern | Pittsburgh, PA | Fall 2026, Spring 2027 | https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1
+- [ ] **Carnegie Mellon University** - Cyber AI Engineering Intern | Pittsburgh, PA | Spring 2027 | https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1
