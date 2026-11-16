@@ -1225,3 +1225,4 @@
 - [ ] **Carnegie Mellon University** - Full-Stack Software Development Intern | Pittsburgh, PA | Fall 2026, Spring 2027 | https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1
 - [ ] **Carnegie Mellon University** - Cyber AI Engineering Intern | Pittsburgh, PA | Spring 2027 | https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1
 - [ ] **Inspire Brands** - Digital Experience Performance Intern | Atlanta, GA | Summer 2027 | https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022
+- [ ] **Octaura** - Data Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/octaura/jobs/4662934007
