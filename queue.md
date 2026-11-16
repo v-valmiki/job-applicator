@@ -1226,3 +1226,10 @@
 - [ ] **Carnegie Mellon University** - Cyber AI Engineering Intern | Pittsburgh, PA | Spring 2027 | https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1
 - [ ] **Inspire Brands** - Digital Experience Performance Intern | Atlanta, GA | Summer 2027 | https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022
 - [ ] **Octaura** - Data Engineer Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/octaura/jobs/4662934007
+- [ ] **Boston Scientific** - AI Acceleration Intern | Marlborough, MA | Summer 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813862390
+- [ ] **Boston Scientific** - AI Engineer Intern - Generative & Agentic AI | Marlborough, MA, Maple Grove, MN, Arden Hills, MN | Summer 2027 | https://bostonscientific.eightfold.ai/careers/job/563602813827837
+- [ ] **Addepar** - Technical Product Management Intern - ADX | NYC | Summer 2027 | https://job-boards.greenhouse.io/addepar1/jobs/8910324002
+- [ ] **Shopify** - Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | Summer 2027 | https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95
+- [ ] **Quest Analytics** - Software Engineer Intern - C# - ASP.NET | Overland Park, KS | Summer 2027 | https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply
+- [ ] **NRDC** - Community Science Partnerships Intern | Santa Monica, CA, Washington, DC, SF, Chicago, IL, NYC | Summer 2027 | https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false
+- [ ] **SRI International** - Software Engineering/Full Stack Development Co-op | Princeton, NJ | N/A | https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false
