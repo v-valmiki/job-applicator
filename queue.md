@@ -1245,3 +1245,7 @@
 - [ ] **Noblis** - Environmental Analyst Intern | United States | Spring 2027 | https://careers.noblis.org/jobs/28139?icims=1&lang=en-us
 - [ ] **The Opus Group** - Interactive Resident | Remote in USA | Winter 2027, Spring 2027 | https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false
 - [ ] **Soros Fund Management** - Trading Intern - Middle and Back Office Dev | NYC | Summer 2027 | https://job-boards.greenhouse.io/familyoffice/jobs/8202862003
+- [ ] **Garner Health** - Associate Software Engineer Intern | NYC | Fall 2026, Spring 2027 | https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004
+- [ ] **SurePoint Ag Systems** - Drone Imaging Agronomy Intern | Manhattan, KS | Summer 2027 | https://surepoint.bamboohr.com/careers/109/
+- [ ] **Zipline** - Zip Motion Planning Intern | South SF | Summer 2027 | https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003
+- [ ] **Robert Bosch Venture Capital** - AI Application Intern | Farmington Hills, MI | Winter 2027, Summer 2027 | https://jobs.smartrecruiters.com/BoschGroup/744000162076254
