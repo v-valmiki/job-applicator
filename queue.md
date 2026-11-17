@@ -1233,3 +1233,15 @@
 - [ ] **Quest Analytics** - Software Engineer Intern - C# - ASP.NET | Overland Park, KS | Summer 2027 | https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply
 - [ ] **NRDC** - Community Science Partnerships Intern | Santa Monica, CA, Washington, DC, SF, Chicago, IL, NYC | Summer 2027 | https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false
 - [ ] **SRI International** - Software Engineering/Full Stack Development Co-op | Princeton, NJ | N/A | https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false
+- [ ] **Reliable Robotics** - Displays Software Engineer Intern | Mountain View, CA | Summer 2027 | https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true
+- [ ] **ServiceNow** - Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA, NYC | Summer 2027 | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
+- [ ] **bioMérieux** - Machine Learning Co-op | Durham, NC | Winter 2027 | https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false
+- [ ] **Duetti** - Data Intern | NYC | Summer 2027 | https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply
+- [ ] **GM Financial** - Product Owner Intern | Arlington, TX | Summer 2027 | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247
+- [ ] **Bound** - Engineering Intern | Ames, IA | Summer 2027 | https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd
+- [ ] **Bound** - Product Management Intern | Ames, IA | Summer 2027 | https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316
+- [ ] **Federal Home Loan Bank of Des Moines** - Application Development Co-op | Des Moines, IA | N/A | https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/Application-Development-Co-Op_REQ00683
+- [ ] **Federal Home Loan Bank of Des Moines** - IT Back Office Co-op | Des Moines, IA | N/A | https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/IT-Back-Office-Co-Op_REQ00697
+- [ ] **Noblis** - Environmental Analyst Intern | United States | Spring 2027 | https://careers.noblis.org/jobs/28139?icims=1&lang=en-us
+- [ ] **The Opus Group** - Interactive Resident | Remote in USA | Winter 2027, Spring 2027 | https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false
+- [ ] **Soros Fund Management** - Trading Intern - Middle and Back Office Dev | NYC | Summer 2027 | https://job-boards.greenhouse.io/familyoffice/jobs/8202862003
