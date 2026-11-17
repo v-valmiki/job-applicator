@@ -1249,3 +1249,13 @@
 - [ ] **SurePoint Ag Systems** - Drone Imaging Agronomy Intern | Manhattan, KS | Summer 2027 | https://surepoint.bamboohr.com/careers/109/
 - [ ] **Zipline** - Zip Motion Planning Intern | South SF | Summer 2027 | https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003
 - [ ] **Robert Bosch Venture Capital** - AI Application Intern | Farmington Hills, MI | Winter 2027, Summer 2027 | https://jobs.smartrecruiters.com/BoschGroup/744000162076254
+- [ ] **APEX Analytix** - Product Management Intern - DevOps | Greensboro, NC | Summer 2027 | https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164
+- [ ] **Attain Partners** - Data Analytics Intern | McLean, VA | Summer 2027 | https://job-boards.greenhouse.io/attainpartners/jobs/5485427008
+- [ ] **Raptor Maps** - Software Engineer Intern | Somerville, MA | Summer 2027 | https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a
+- [ ] **Anduril** - Machine Learning Engineer Intern | Santa Ana, CA | Summer 2027 | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
+- [ ] **Falcomm** - AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration | Atlanta, GA | Spring 2027 | https://apply.workable.com/falcomm/j/64D0E86EFE/apply
+- [ ] **Falcomm** - AI/ML Software Engineer Graduate Intern - AI/CAD Integration | Atlanta, GA | Spring 2027 | https://apply.workable.com/falcomm/j/41F139E6F7/apply
+- [ ] **Basis Research Institute** - Research Intern | Cambridge, MA, NYC | Summer 2027 | https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true
+- [ ] **New York City Housing Development Corporation** - Strategic Operations Graduate Intern | NYC | Fall 2026 | https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false
+- [ ] **Compunetix** - Software Engineer Co-op | Monroeville, PA | Spring 2027 | https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false
+- [ ] **Exowatt** - Robotics & Physical AI Intern | Miami, FL | Spring 2027 | https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply
