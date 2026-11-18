@@ -1259,3 +1259,14 @@
 - [ ] **New York City Housing Development Corporation** - Strategic Operations Graduate Intern | NYC | Fall 2026 | https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false
 - [ ] **Compunetix** - Software Engineer Co-op | Monroeville, PA | Spring 2027 | https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false
 - [ ] **Exowatt** - Robotics & Physical AI Intern | Miami, FL | Spring 2027 | https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply
+- [ ] **Paccar** - Data Scientist Intern | Denton, TX | Summer 2027 | https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors
+- [ ] **SRI International** - Software Engineering Co-op | Princeton, NJ | N/A | https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false
+- [ ] **Constellation Energy** - IT Software Developer Intern | San Diego, CA | Summer 2027 | https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us
+- [ ] **Bissell** - AI & Automation Intern | Grand Rapids, MI | Summer 2027 | https://careers.bissell.com/jobs/9995?icims=1&lang=en-us
+- [ ] **Uber** - Product Management Intern | SF | Summer 2027 | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983
+- [ ] **CMI Media Group** - Business Insights Intern | Chicago, IL | Fall 2026 | https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false
+- [ ] **Sallie Mae** - Software Engineer Intern | Indianapolis, IN | Summer 2027 | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633
+- [ ] **Sallie Mae** - Software Engineer Intern | Indianapolis, IN | Summer 2027 | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623
+- [ ] **Smarty** - Data Acquisition & Quality Specialist Intern | Orem, UT | Winter 2027 | https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6
+- [ ] **Firefly Aerospace** - Software Engineering Intern | Leander, TX | Spring 2027 | https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188
+- [ ] **Smarty** - Product Management Intern | Orem, UT | Winter 2027, Spring 2027, Summer 2027 | https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749
