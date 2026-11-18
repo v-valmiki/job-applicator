@@ -1270,3 +1270,7 @@
 - [ ] **Smarty** - Data Acquisition & Quality Specialist Intern | Orem, UT | Winter 2027 | https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6
 - [ ] **Firefly Aerospace** - Software Engineering Intern | Leander, TX | Spring 2027 | https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188
 - [ ] **Smarty** - Product Management Intern | Orem, UT | Winter 2027, Spring 2027, Summer 2027 | https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749
+- [ ] **Airbnb** - Software Engineer Intern | SF | Summer 2027 | https://careers.airbnb.com/positions/8360478?gh_jid=8360478
+- [ ] **DriveWealth** - AI Consulting Associate Program People Analytics Intern | Chicago, IL, NYC | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true
+- [ ] **Sallie Mae** - Software Engineer Intern | Indianapolis, IN | Summer 2027 | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625
+- [ ] **General Dynamics Information Technology** - Engineering Intern | Falls Church, VA, Gaithersburg, MD | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323
