@@ -1282,3 +1282,5 @@
 - [ ] **Lucid** - Product Management Intern | Salt Lake City, UT | Summer 2027 | https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004
 - [ ] **Goldman Sachs** - Summer Analyst Intern - Multiple Teams | Albany, NY | Summer 2027 | https://higher.gs.com/roles/189373?type=students
 - [ ] **Pyrotek** - Product Management Intern | Spokane, WA | Summer 2027 | https://jobs.smartrecruiters.com/Pyrotek3/744000162385949
+- [ ] **Carnegie Mellon University** - AI Engineer Intern - Mission Innovation Lab | Pittsburgh, PA | Summer 2027 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1
+- [ ] **Crystal Dynamics** - Game Design Intern | Remote in USA | Spring 2027 | https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005
