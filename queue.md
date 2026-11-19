@@ -1274,3 +1274,11 @@
 - [ ] **DriveWealth** - AI Consulting Associate Program People Analytics Intern | Chicago, IL, NYC | Summer 2027 | https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true
 - [ ] **Sallie Mae** - Software Engineer Intern | Indianapolis, IN | Summer 2027 | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625
 - [ ] **General Dynamics Information Technology** - Engineering Intern | Falls Church, VA, Gaithersburg, MD | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323
+- [ ] **Sheetz** - Business Intelligence Analytics Intern | Pittsburgh, PA | Summer 2027 | https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us
+- [ ] **Kira Learning** - Software Engineer Intern | SF | Winter 2027 | https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true
+- [ ] **Truveta** - Software Engineer Intern | Seattle, WA | Winter 2027 | https://job-boards.greenhouse.io/truveta/jobs/6249810004
+- [ ] **Anduril** - Business Systems Engineer Intern | Costa Mesa, CA | Summer 2027 | https://boards.greenhouse.io/andurilindustries/jobs/5300647007
+- [ ] **Lucid** - Product Management Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004
+- [ ] **Lucid** - Product Management Intern | Salt Lake City, UT | Summer 2027 | https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004
+- [ ] **Goldman Sachs** - Summer Analyst Intern - Multiple Teams | Albany, NY | Summer 2027 | https://higher.gs.com/roles/189373?type=students
+- [ ] **Pyrotek** - Product Management Intern | Spokane, WA | Summer 2027 | https://jobs.smartrecruiters.com/Pyrotek3/744000162385949
