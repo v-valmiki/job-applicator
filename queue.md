@@ -1320,3 +1320,6 @@
 - [ ] **Honeywell Aerospace** - Information Systems Data Science Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238
 - [ ] **Honeywell Aerospace** - Software Engineer Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821
 - [ ] **Honeywell Aerospace** - Information Systems Data Science Intern - IT | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471
+- [ ] **iCapital Network** - Data Solutions Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002
+- [ ] **Symbotic** - Software Engineer Intern - Front-End | Austin, TX | Summer 2027 | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1
+- [ ] **Systems Planning and Analysis** - Integrated Analytics Intern | Alexandria, VA | Summer 2027 | https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us
