@@ -1284,3 +1284,16 @@
 - [ ] **Pyrotek** - Product Management Intern | Spokane, WA | Summer 2027 | https://jobs.smartrecruiters.com/Pyrotek3/744000162385949
 - [ ] **Carnegie Mellon University** - AI Engineer Intern - Mission Innovation Lab | Pittsburgh, PA | Summer 2027 | https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1
 - [ ] **Crystal Dynamics** - Game Design Intern | Remote in USA | Spring 2027 | https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005
+- [ ] **Ralliant** - Software Engineer Intern | Beaverton, OR | Summer 2027 | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153
+- [ ] **Publicis Groupe** - Identity Analytics Intern | Chicago, IL | Summer 2027 | https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us
+- [ ] **Barry's** - Undergraduate Summer Scholar Intern - Data Analyst | NYC | Summer 2027 | https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f
+- [ ] **Blue Cross Blue Shield of Michigan** - Object Oriented Programming Intern | Detroit, MI | Summer 2027 | https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160
+- [ ] **Vertiv** - AI Intern | Westerville, OH, Fort Lauderdale, FL, Huntsville, AL | Summer 2027 | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620
+- [ ] **Vertiv** - AI Intern | Westerville, OH, Fort Lauderdale, FL, Huntsville, AL | Summer 2027 | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621
+- [ ] **Snowflake** - Software Engineer Intern - AI / ML | Menlo Park, CA, Bellevue, WA | Summer 2027 | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
+- [ ] **Snowflake** - Software Engineer Intern - Core - Infrastructure & Security | Menlo Park, CA, Bellevue, WA | Summer 2027 | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
+- [ ] **Snowflake** - Software Engineer Intern - Database Engineering | Menlo Park, CA, Bellevue, WA | Summer 2027 | https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true
+- [ ] **Publicis Groupe** - Identity Analytics Intern | Chicago, IL | Summer 2027 | https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us
+- [ ] **Pivotal Software** - Autonomy Intern - Autonomy - Path Planning | Palo Alto, CA | Summer 2027 | https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply
+- [ ] **Uplinq** - Software Engineer Intern - ASU | Scottsdale, AZ | Winter 2027 | https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c
+- [ ] **Amperity** - Software Development Engineer Intern | Seattle, WA | Summer 2027 | https://amperity.com/careers?gh_jid=8393990#openpositions
