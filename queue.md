@@ -1297,3 +1297,26 @@
 - [ ] **Pivotal Software** - Autonomy Intern - Autonomy - Path Planning | Palo Alto, CA | Summer 2027 | https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply
 - [ ] **Uplinq** - Software Engineer Intern - ASU | Scottsdale, AZ | Winter 2027 | https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c
 - [ ] **Amperity** - Software Development Engineer Intern | Seattle, WA | Summer 2027 | https://amperity.com/careers?gh_jid=8393990#openpositions
+- [ ] **Formlabs** - API & Automation Intern | Somerville, MA | Summer 2027 | https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855
+- [ ] **Lucid Motors** - Infotainment Software Intern | Newark, CA | Summer 2027, Fall 2027 | https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007
+- [ ] **Lucid Motors** - AI & Data Intern - Applied AI/Machine Learning | Newark, CA | Summer 2027 | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
+- [ ] **Piper Sandler** - Data Engineering Intern | Minneapolis, MN | Summer 2027 | https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805
+- [ ] **EFI Foundation** - Research Intern/Fellow | Washington, DC | Winter 2027 | https://efifoundation.bamboohr.com/careers/43/
+- [ ] **Melaleuca** - Software Development Intern | Idaho Falls, ID | Summer 2027 | https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf
+- [ ] **CAS** - Cheminformatics Scientist Intern | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337
+- [ ] **CAS** - Business Data Analytics Intern - AI/ML Focus | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a
+- [ ] **CAS** - Product Management Intern | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336
+- [ ] **CAS** - CAS 2027 Technology Summer Intern - Business Data Governance | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527
+- [ ] **CAS** - Technology Intern - Application Technology | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda
+- [ ] **CAS** - Technology Intern - Databases | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002
+- [ ] **CAS** - Product Management in AI for Chemistry Fellow | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1
+- [ ] **CAS** - Chemist Intern - Content Operations | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93
+- [ ] **CAS** - Technology Intern - Software Engineering | Columbus, OH | Summer 2027 | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846
+- [ ] **iA** - Software Development Engineer Intern | Binghamton, NY | Summer 2027 | https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1
+- [ ] **iA** - Software Data Engineer Intern | Indianapolis, IN | Summer 2027 | https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1
+- [ ] **Honeywell Aerospace** - AI Software Engineer Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880
+- [ ] **Honeywell Aerospace** - AI Software Engineer Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899
+- [ ] **Honeywell Aerospace** - Software Engineer Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718
+- [ ] **Honeywell Aerospace** - Information Systems Data Science Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238
+- [ ] **Honeywell Aerospace** - Software Engineer Intern | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821
+- [ ] **Honeywell Aerospace** - Information Systems Data Science Intern - IT | United States | Summer 2027 | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471
