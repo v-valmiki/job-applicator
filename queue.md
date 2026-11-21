@@ -1360,3 +1360,6 @@
 - [ ] **Acuity Insurance** - Data Analytics Intern - Data Science | Sheboygan, WI | Summer 2027 | https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7
 - [ ] **Acuity Insurance** - Software Engineer Intern | Remote in USA, Sheboygan, WI | Summer 2027 | https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217
 - [ ] **Resultant** - Data & Analytics Consultant Intern | Indianapolis, IN | Summer 2027 | https://jobs.smartrecruiters.com/Resultant/744000162782371
+- [ ] **Gorbel** - Front-End Web Developer Co-op | Victor, NY | N/A | https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1
+- [ ] **Koch Industries** - Data and Analytics Intern | Lisle, IL | Summer 2027 | https://koch.avature.net/en_US/careers/JobDetail/198151
+- [ ] **Kentucky Science and Technology Corporation** - Data Management Intern | Lexington, KY, Kentucky | Winter 2026 | https://thekentuckyscienceandtechnologycorporation.applytojob.com/apply/ISJX57K0S9/Data-Management-Intern
