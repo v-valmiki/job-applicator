@@ -1363,3 +1363,7 @@
 - [ ] **Gorbel** - Front-End Web Developer Co-op | Victor, NY | N/A | https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1
 - [ ] **Koch Industries** - Data and Analytics Intern | Lisle, IL | Summer 2027 | https://koch.avature.net/en_US/careers/JobDetail/198151
 - [ ] **Kentucky Science and Technology Corporation** - Data Management Intern | Lexington, KY, Kentucky | Winter 2026 | https://thekentuckyscienceandtechnologycorporation.applytojob.com/apply/ISJX57K0S9/Data-Management-Intern
+- [ ] **Compassion International** - Summer Intern - Data and Software Engineering | Colorado Springs, CO | Summer 2027 | https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840
+- [ ] **Woodward Governor** - AI Intern | Niles, IL, Fort Collins, CO | Summer 2027 | https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291
+- [ ] **AriensCo** - Product Management Intern | Brillion, WI | Summer 2027 | https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305
+- [ ] **Blizzard Entertainment** - Data Platform Engineering Intern - Data Platform Engineering | Irvine, CA | Summer 2027 | https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358
