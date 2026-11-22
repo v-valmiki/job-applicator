@@ -1367,3 +1367,7 @@
 - [ ] **Woodward Governor** - AI Intern | Niles, IL, Fort Collins, CO | Summer 2027 | https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291
 - [ ] **AriensCo** - Product Management Intern | Brillion, WI | Summer 2027 | https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305
 - [ ] **Blizzard Entertainment** - Data Platform Engineering Intern - Data Platform Engineering | Irvine, CA | Summer 2027 | https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358
+- [ ] **Neros Technologies** - Autonomy Intern | Torrance, CA | Summer 2027 | https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007
+- [ ] **TransUnion** - Data Science and Analytics Intern | Chicago, IL | Summer 2027 | https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450
+- [ ] **Advance Auto Parts** - Data Science Intern | Raleigh, NC | Summer 2027 | https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1
+- [ ] **NVIDIA** - Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | Santa Clara, CA | Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793
