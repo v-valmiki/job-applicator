@@ -1377,3 +1377,7 @@
 - [ ] **General Dynamics Information Technology** - AI and Estimation Intern - Interns | Falls Church, VA | Summer 2027 | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867
 - [ ] **Sierra Space** - Software Engineering Intern - Software Engineering | Madison, WI, Centennial, CO, Durham, NC, Louisville, CO, Broomfield, CO | Summer 2027 | https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1
 - [ ] **Genentech** - AI for Drug Discovery Intern - AI for Drug Discovery - AIDD | NYC | Summer 2027 | https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1
+- [ ] **Red Bull** - Data Science Intern | Morristown, NJ | Spring 2027 | https://jobs.smartrecruiters.com/RedBull/744000163139699
+- [ ] **Red Bull** - RBII Team Analysis Intern | Morristown, NJ | Spring 2027 | https://jobs.smartrecruiters.com/RedBull/744000163139439
+- [ ] **First Resonance** - Product Management Intern | El Segundo, CA | Summer 2027 | https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true
+- [ ] **First Resonance** - Software Engineer Intern - Platform | LA | Summer 2027 | https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true
