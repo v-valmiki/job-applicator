@@ -1381,3 +1381,25 @@
 - [ ] **Red Bull** - RBII Team Analysis Intern | Morristown, NJ | Spring 2027 | https://jobs.smartrecruiters.com/RedBull/744000163139439
 - [ ] **First Resonance** - Product Management Intern | El Segundo, CA | Summer 2027 | https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true
 - [ ] **First Resonance** - Software Engineer Intern - Platform | LA | Summer 2027 | https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true
+- [ ] **Benchling** - Software Engineer Intern | SF | Summer 2027 | https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true
+- [ ] **Playfly Sports** - Research & Insights Intern | NYC | Summer 2027 | https://www.playfly.com/careers?gh_jid=4486378009
+- [ ] **APEX Analytix** - Software Engineer Intern - Platform Tooling | Greensboro, NC | Summer 2027 | https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19
+- [ ] **Stantec** - Data Scientist Intern - Water | Boston, MA, Denver, CO, San Diego, CA | Summer 2027 | https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005
+- [ ] **DraftKings** - Data Engineer Intern | Boston, MA | Summer 2027 | https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464
+- [ ] **Lifeway** - Summer Internship - Business Intelligence | Remote in USA | Summer 2027 | https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false
+- [ ] **Lifeway** - Software Engineer Intern - Full Stack - Back-End | Remote in USA | Summer 2027 | https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false
+- [ ] **Lifeway** - Front-End Engineer Intern | Nashville, TN, Remote in USA | Summer 2027 | https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false
+- [ ] **Amazon** - Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
+- [ ] **GrayMatter Robotics** - Robotics Engineering Intern: Systems & Applications | Carson, CA | Winter 2027 | https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true
+- [ ] **CornerStone Partners** - AI and Automation Intern | Charlottesville, VA | Summer 2027 | https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027
+- [ ] **Shield AI** - Software Engineering Intern | Dallas, TX | Summer 2027 | https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true
+- [ ] **Exowatt** - Software & AI Intern | Austin, TX | Spring 2027 | https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply
+- [ ] **Culver's** - Business Analytics Intern | Prairie du Sac, WI | Summer 2027 | https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79
+- [ ] **Noblis** - Data Innovations Intern | Springfield, VA, Reston, VA | Summer 2027 | https://careers.noblis.org/jobs/28005?icims=1&lang=en-us
+- [ ] **Illinois Tool Works** - Software or Computer Engineer Intern | Fairmont, MN | Summer 2027 | https://careers.itw.com/global/en/job/JR11356
+- [ ] **Oscar Health** - Software Engineer Intern | NYC | Winter 2027, Spring 2028, Summer 2028, Winter 2028 | https://oscarhealth.com/careers/jobs?gh_jid=8407472
+- [ ] **Strava** - Software Engineer Intern - Android - Subscriptions | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true
+- [ ] **Strava** - Software Engineer Intern - Server - Comms | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true
+- [ ] **Strava** - Software Engineer Intern - Server - User Lifecycle | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true
+- [ ] **Strava** - Machine Learning Engineer Intern - AI/ML Data Products | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true
+- [ ] **Strava** - Software Engineer Intern - Server - Next Sports | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true
