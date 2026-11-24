@@ -1403,3 +1403,26 @@
 - [ ] **Strava** - Software Engineer Intern - Server - User Lifecycle | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true
 - [ ] **Strava** - Machine Learning Engineer Intern - AI/ML Data Products | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true
 - [ ] **Strava** - Software Engineer Intern - Server - Next Sports | SF | Summer 2027 | https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true
+- [ ] **Illumio** - Product Manager Intern | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true
+- [ ] **Illumio** - Product Management Intern - Solution Economics | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true
+- [ ] **Illumio** - Security Platforms Engineer Intern - Security Platforms | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true
+- [ ] **Illumio** - Technical Product Management Intern | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true
+- [ ] **Illumio** - Engineering Intern - Architecture Platform | Sunnyvale, CA | Summer 2027 | https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true
+- [ ] **Veolia** - Manufacturing Software Engineer Intern | Boulder, CO | Summer 2027 | https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969
+- [ ] **Esri** - GIS Engineer Intern | Redlands, CA | Summer 2027 | https://job-boards.greenhouse.io/studentprogram/jobs/5217904007
+- [ ] **Esri** - Enterprise Business Intelligence Intern | Redlands, CA | Summer 2027 | https://job-boards.greenhouse.io/studentprogram/jobs/5246028007
+- [ ] **Esri** - Software Engineer Intern | St. Louis, MO | Summer 2027 | https://job-boards.greenhouse.io/studentprogram/jobs/5286753007
+- [ ] **Esri** - Software Development Engineer Intern | Redlands, CA | Summer 2027 | https://job-boards.greenhouse.io/studentprogram/jobs/5217883007
+- [ ] **Amazon** - Business Analyst Intern | Bellevue, WA | Summer 2027 | https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027
+- [ ] **Plains All American Pipeline** - Operations Management System Intern - Digital & AI Innovation | Houston, TX | Summer 2027 | https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1
+- [ ] **Energy Solutions** - Clean Transportation Intern | Remote in USA | Summer 2027 | https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007
+- [ ] **Energy Solutions** - Solar Intern | Remote in USA | Summer 2027 | https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007
+- [ ] **CarGurus** - Product Management Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230686
+- [ ] **CarGurus** - Data Governance Engineer Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230749
+- [ ] **CarGurus** - Software Engineer Intern - Full Stack | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230777
+- [ ] **CarGurus** - Data Analytics Engineer Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8231510
+- [ ] **CarGurus** - Product Data Analyst Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230677
+- [ ] **CarGurus** - Data Platform Engineer Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230750
+- [ ] **CarGurus** - Finance AI Solutions Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8231798
+- [ ] **CarGurus** - Software Development Engineer Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8231504
+- [ ] **CarGurus** - Software Engineer Intern - Full Stack | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230763
