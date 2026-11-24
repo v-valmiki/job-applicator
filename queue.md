@@ -1426,3 +1426,6 @@
 - [ ] **CarGurus** - Finance AI Solutions Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8231798
 - [ ] **CarGurus** - Software Development Engineer Intern | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8231504
 - [ ] **CarGurus** - Software Engineer Intern - Full Stack | Boston, MA | Summer 2027 | https://job-boards.greenhouse.io/ecjobb/jobs/8230763
+- [ ] **iCapital Network** - SI and Annuities Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002
+- [ ] **Fanatics** - Product Management Intern - Card Tech | NYC | Summer 2027 | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009
+- [ ] **RF-SMART** - Software Developer Intern | Highlands Ranch, CO, Jacksonville, FL | Summer 2027 | https://job-boards.greenhouse.io/rfsmart/jobs/5446867008
