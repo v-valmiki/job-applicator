@@ -1429,3 +1429,18 @@
 - [ ] **iCapital Network** - SI and Annuities Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002
 - [ ] **Fanatics** - Product Management Intern - Card Tech | NYC | Summer 2027 | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009
 - [ ] **RF-SMART** - Software Developer Intern | Highlands Ranch, CO, Jacksonville, FL | Summer 2027 | https://job-boards.greenhouse.io/rfsmart/jobs/5446867008
+- [ ] **WSP** - Geographic Information Systems Science Intern | Denver, CO | Summer 2027 | https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829
+- [ ] **Amazon** - Front-End Engineer Intern | Seattle, WA, Chicago, IL, Bellevue, WA | Winter 2027, Summer 2027, Fall 2027 | https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
+- [ ] **Johns Hopkins Applied Physics Laboratory** - Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer 2027 | https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us
+- [ ] **Medpace** - Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 | https://careers.medpace.com/jobs/13558?icims=1&lang=en-us
+- [ ] **TransUnion** - Data Analyst Intern | Chicago, IL | Summer 2027 | https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654
+- [ ] **Kimley-Horn** - Data Science Intern | Mesa, AZ | Summer 2027 | https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us
+- [ ] **The Tech Interactive** - STEM Impact & Data Reporting Intern | San Jose, CA | Winter 2027, Spring 2027 | https://ats.rippling.com/the-tech/jobs/1681a3cc-c0d0-4161-8fcc-6edac78f0475
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414452
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414426
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414440
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414444
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414448
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414430
+- [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414436
+- [ ] **SambaNova Systems** - Runtime Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 | https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004
