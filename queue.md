@@ -1444,3 +1444,5 @@
 - [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414430
 - [ ] **Bandwidth** - Software Engineer Intern | Raleigh, NC | Summer 2027 | https://job-boards.greenhouse.io/bandwidth/jobs/8414436
 - [ ] **SambaNova Systems** - Runtime Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 | https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004
+- [ ] **Noblis** - AI/ML Research Intern | United States | Spring 2027 | https://careers.noblis.org/jobs/28841?icims=1&lang=en-us
+- [ ] **Waters** - IT Digital Intern | Milford, MA | Summer 2027 | https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false
