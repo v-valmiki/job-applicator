@@ -1446,3 +1446,18 @@
 - [ ] **SambaNova Systems** - Runtime Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 | https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004
 - [ ] **Noblis** - AI/ML Research Intern | United States | Spring 2027 | https://careers.noblis.org/jobs/28841?icims=1&lang=en-us
 - [ ] **Waters** - IT Digital Intern | Milford, MA | Summer 2027 | https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false
+- [ ] **ManTech** - C++ Developer Intern | Lexington Park, MD | Summer 2027 | https://mantech.avature.net/en_US/careers/JobDetail/67268
+- [ ] **Veolia** - Energy Management Co-op | Boston, MA | N/A | https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559
+- [ ] **Tesla** - Robotics Audio DSP Engineer Intern | Palo Alto, CA | Summer 2027 | https://www.tesla.com/careers/search/job/291227
+- [ ] **Wabash Valley Power Alliance** - Energy Efficiency & Demand Response Intern - Summer 2027 | Indianapolis, IN | Summer 2027 | https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159
+- [ ] **Cantor Fitzgerald** - Technology Summer Intern - Development | NYC | Summer 2027 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630
+- [ ] **Ancestry** - Product Manager Co-op - DNA to Family History - Bridges | Remote in USA | N/A | https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505
+- [ ] **Total Quality Logistics** - Product Management Intern | Cincinnati, OH | Summer 2027 | https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765
+- [ ] **Total Quality Logistics** - Software Development Intern | Cincinnati, OH | Summer 2027 | https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763
+- [ ] **Total Quality Logistics** - Data Science & Analytics Intern | Cincinnati, OH | Summer 2027 | https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764
+- [ ] **Total Quality Logistics** - AI Product Intern | Cincinnati, OH | Summer 2027 | https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757
+- [ ] **Jack Henry** - Enterprise Pricing & Data Analytics Intern | Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS | Summer 2027 | https://jackhenry.avature.net/careers/JobDetail/17682
+- [ ] **Veeva Systems** - Software Engineer Intern | Pleasanton, CA | Summer 2027 | https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply
+- [ ] **Veeva Systems** - Software Engineer Intern | Boston, MA | Summer 2027 | https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply
+- [ ] **Tombras** - Data Science Intern | Knoxville, TN | Spring 2027 | https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9
+- [ ] **Apex** - Software Engineering Operating Systems Intern | LA | Summer 2027 | https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true
