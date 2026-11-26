@@ -1461,3 +1461,7 @@
 - [ ] **Veeva Systems** - Software Engineer Intern | Boston, MA | Summer 2027 | https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply
 - [ ] **Tombras** - Data Science Intern | Knoxville, TN | Spring 2027 | https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9
 - [ ] **Apex** - Software Engineering Operating Systems Intern | LA | Summer 2027 | https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true
+- [ ] **QuEra Computing** - Photonics Data Engineer Intern - Data Management | Boston, MA | Winter 2027 | https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008
+- [ ] **OpenSesame** - Software Engineer Intern | Remote in USA | Summer 2027 | https://boards.greenhouse.io/opensesame/jobs/8418272
+- [ ] **OpenSesame** - Product Intern | Remote in USA | Summer 2027 | https://boards.greenhouse.io/opensesame/jobs/8418204
+- [ ] **Blizzard Entertainment** - Tech Art Intern | Irvine, CA | Summer 2027 | https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383
