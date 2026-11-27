@@ -1465,3 +1465,7 @@
 - [ ] **OpenSesame** - Software Engineer Intern | Remote in USA | Summer 2027 | https://boards.greenhouse.io/opensesame/jobs/8418272
 - [ ] **OpenSesame** - Product Intern | Remote in USA | Summer 2027 | https://boards.greenhouse.io/opensesame/jobs/8418204
 - [ ] **Blizzard Entertainment** - Tech Art Intern | Irvine, CA | Summer 2027 | https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383
+- [ ] **Atoms** - Software Engineer Intern | Seattle, WA, SF, LA, NYC, Mountain View, CA | Summer 2027 | https://job-boards.greenhouse.io/cssmerge/jobs/8963704002
+- [ ] **ICONIQ Capital** - Engineering Intern | SF | Summer 2027 | https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060
+- [ ] **ICONIQ Capital** - Data & Analytics Intern | NYC | Summer 2027 | https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973
+- [ ] **ICONIQ Capital** - Data Science Intern - Science | SF | Summer 2027 | https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972
